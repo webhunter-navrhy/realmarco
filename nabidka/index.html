@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nabídka nemovitostí | Real Marco</title>
+<meta name="description" content="22 aktuálních nabídek realitní kanceláře Real Marco – byty, domy, pozemky a komerční prostory v Brně a okolí.">
+<meta name="theme-color" content="#F6F4EE">
+<script>document.documentElement.classList.add('js')</script>
+<meta property="og:title" content="Nabídka nemovitostí | Real Marco">
+<meta property="og:description" content="22 aktuálních nabídek realitní kanceláře Real Marco – byty, domy, pozemky a komerční prostory v Brně a okolí.">
+<meta property="og:type" content="website">
+<meta name="robots" content="noindex">
+<link rel="icon" href="../assets/img/site/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="../assets/img/site/apple-touch.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Onest:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css?v=bd80b744">
+<script src="../assets/main.js?v=258d6758" defer></script>
+</head>
+<body class="offer">
+<div class="progress" aria-hidden="true"></div>
+<a class="skip" href="#obsah">Přeskočit na obsah</a>
+<header class="nav" id="nav">
+  <div class="nav-in">
+    <a class="brand" href="../" aria-label="Real Marco – úvod"><img src="../assets/img/site/logo.png" alt="Real Marco" width="720" height="185"></a>
+    <nav class="menu" id="menu" aria-label="Hlavní navigace">
+      <a href="../nabidka/" class="ul" aria-current="page">Nabídka</a>
+      <a href="../#sluzby" class="ul">Služby</a>
+      <a href="../#development" class="ul">Development</a>
+      <a href="../#makleri" class="ul">Makléři</a>
+      <a href="../#o-nas" class="ul">O nás</a>
+      <a href="../#kontakt" class="ul">Kontakt</a>
+      <div class="menu-foot">
+        <a href="tel:+420603954846">+420 603 954 846</a>
+        <a href="mailto:info@realmarco.cz">info@realmarco.cz</a>
+      </div>
+    </nav>
+    <div class="nav-cta">
+      <a class="nav-tel" href="tel:+420603954846"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg><span>+420 603 954 846</span></a>
+      <a class="btn btn-y btn-sm" href="../#kontakt">Napište nám</a>
+    </div>
+    <button class="burger" id="burger" aria-label="Otevřít menu" aria-expanded="false" aria-controls="menu"><span></span><span></span></button>
+  </div>
+</header>
+<main id="obsah">
+<section class="offer-head">
+  <div class="wrap">
+    <p class="crumbs"><a class="ul" href="../">Úvod</a><span>/</span>Nabídka</p>
+    <h1 class="h1 h1-page">Nabídka <em>nemovitostí</em></h1>
+    <p class="lead">22 aktuálních nabídek. Filtrujte podle typu, lokality, ceny i&nbsp;plochy – výsledky se mění okamžitě a&nbsp;odkaz si můžete poslat dál.</p>
+  </div>
+</section>
+<section class="filters" id="filters" aria-label="Filtry nabídky">
+  <div class="wrap">
+    <button class="f-toggle" type="button" aria-expanded="false" aria-controls="fpanel"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg> Filtrovat <span class="f-badge" hidden></span></button>
+    <div class="fpanel" id="fpanel">
+      <div class="f-row">
+        <div class="seg" role="group" aria-label="Typ">
+          <button type="button" data-f="typ" data-v="" aria-pressed="true">Vše<sup>22</sup></button>
+          <button type="button" data-f="typ" data-v="prodej" aria-pressed="false">Koupě<sup>19</sup></button>
+          <button type="button" data-f="typ" data-v="pronajem" aria-pressed="false">Pronájem<sup>3</sup></button>
+        </div>
+        <div class="chips" role="group" aria-label="Kategorie"><button type="button" class="chip" data-f="kat" data-v="byty" aria-pressed="false">Byty<sup>5</sup></button><button type="button" class="chip" data-f="kat" data-v="domy" aria-pressed="false">Domy<sup>7</sup></button><button type="button" class="chip" data-f="kat" data-v="pozemky" aria-pressed="false">Pozemky<sup>3</sup></button><button type="button" class="chip" data-f="kat" data-v="komercni" aria-pressed="false">Komerční<sup>2</sup></button><button type="button" class="chip" data-f="kat" data-v="ostatni" aria-pressed="false">Chaty a jiné<sup>5</sup></button></div>
+      </div>
+      <div class="f-row f-row-2">
+        <label class="sel"><span>Lokalita</span><select data-f="lok"><option value="">Kdekoliv</option><option value="brno">Brno</option><option value="jm">Jižní Morava</option><option value="zlin">Zlínsko</option><option value="praha">Praha</option><option value="sk">Bratislava</option></select></label>
+        <label class="sel"><span>Cena do</span><select data-f="cena"><option value="">Neomezeně</option></select></label>
+        <label class="sel"><span>Plocha od</span><select data-f="plocha"><option value="">Jakákoliv</option><option value="40">40 m²</option><option value="80">80 m²</option><option value="120">120 m²</option><option value="200">200 m²</option><option value="500">500 m²</option></select></label>
+        <label class="sel"><span>Řazení</span><select data-f="razeni"><option value="">Nejnovější</option><option value="cena-asc">Od nejlevnější</option><option value="cena-desc">Od nejdražší</option><option value="plocha-desc">Největší plocha</option></select></label>
+        <button type="button" class="reset ul" data-reset hidden>Zrušit filtry</button>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="results">
+  <div class="wrap">
+    <p class="res-count" aria-live="polite"><b data-count-out>22</b> z 22 nemovitostí</p>
+    <div class="grid" id="grid">
+      <article class="card rv" data-kind="prodej" data-cat="domy" data-reg="zlin" data-price="8290000" data-area="148" data-date="2026-09-21">
+  <a class="card-media" href="../nemovitost/prodej-rodinneho-domu-zarici/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21804/00-s.webp" alt="Prodej rodinného domu Záříčí" loading="lazy" decoding="async" width="760" height="506"><img class="alt" src="../assets/img/n/21804/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span><span class="badge badge-y">Novinka</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>9</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Záříčí</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-rodinneho-domu-zarici/">Prodej rodinného domu Záříčí</a></h3>
+    <p class="card-facts"><span>5+1</span><span>148&nbsp;m²</span><span>pozemek 900&nbsp;m²</span></p>
+    <p class="card-price">8&nbsp;290&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="byty" data-reg="brno" data-price="7490000" data-area="42" data-date="2026-09-19">
+  <a class="card-media" href="../nemovitost/prodej-designoveho-bytu-v-herspicich/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21755/00-s.webp" alt="Prodej designového bytu v Heršpicích" loading="lazy" decoding="async" width="760" height="570"><img class="alt" src="../assets/img/n/21755/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span><span class="badge badge-y">Novinka</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>7</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Byt</span><span>Brno – Horní Heršpice</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-designoveho-bytu-v-herspicich/">Prodej designového bytu v&nbsp;Heršpicích</a></h3>
+    <p class="card-facts"><span>1+kk</span><span>42,2&nbsp;m²</span></p>
+    <p class="card-price">7&nbsp;490&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="domy" data-reg="zlin" data-price="0" data-area="82" data-date="2026-09-17">
+  <a class="card-media" href="../nemovitost/prodej-rd-klecuvka-zlin/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21744/00-s.webp" alt="Prodej RD Klečůvka-Zlín" loading="lazy" decoding="async" width="760" height="506"><img class="alt" src="../assets/img/n/21744/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>10</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Zlín – Klečůvka</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-rd-klecuvka-zlin/">Prodej RD Klečůvka-Zlín</a></h3>
+    <p class="card-facts"><span>82&nbsp;m²</span><span>pozemek 677&nbsp;m²</span></p>
+    <p class="card-price">Cena na dotaz</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="byty" data-reg="jm" data-price="7880000" data-area="91" data-date="2026-09-14">
+  <a class="card-media" href="../nemovitost/prodej-bytu-3-kk-91-m2-kurim/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21319/00-s.webp" alt="Prodej bytu 3+kk 91 m² Kuřim" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21319/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Byt</span><span>Kuřim</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-bytu-3-kk-91-m2-kurim/">Prodej bytu 3+kk 91 m² Kuřim</a></h3>
+    <p class="card-facts"><span>3+kk</span><span>91&nbsp;m²</span></p>
+    <p class="card-price">7&nbsp;880&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="byty" data-reg="brno" data-price="10950000" data-area="120" data-date="2026-09-13">
+  <a class="card-media" href="../nemovitost/prodej-bytu-4-1-brno-120-m2/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21465/00-s.webp" alt="Prodej bytu 4+1 Brno 120 m²" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21465/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>12</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Byt</span><span>Brno – Černá Pole</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-bytu-4-1-brno-120-m2/">Prodej bytu 4+1 Brno 120 m²</a></h3>
+    <p class="card-facts"><span>4+1</span><span>120&nbsp;m²</span></p>
+    <p class="card-price">10&nbsp;950&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="pozemky" data-reg="jm" data-price="6822720" data-area="824" data-date="2026-09-11">
+  <a class="card-media" href="../nemovitost/prodej-stavebniho-pozemku-zavist/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21569/00-s.webp" alt="Prodej stavebního pozemku Závist" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21569/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>6</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Pozemek</span><span>Závist, okres Blansko</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-stavebniho-pozemku-zavist/">Prodej stavebního pozemku Závist</a></h3>
+    <p class="card-facts"><span>824&nbsp;m²</span></p>
+    <p class="card-price">6&nbsp;822&nbsp;720&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="pronajem" data-cat="byty" data-reg="praha" data-price="44000" data-area="88" data-date="2026-08-09">
+  <a class="card-media" href="../nemovitost/pronajem-bytu-3-kk-karlin/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21687/00-s.webp" alt="Pronájem bytu 3+kk Karlín" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21687/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Pronájem</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>13</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Byt</span><span>Praha – Karlín</span></p>
+    <h3 class="card-title"><a href="../nemovitost/pronajem-bytu-3-kk-karlin/">Pronájem bytu 3+kk Karlín</a></h3>
+    <p class="card-facts"><span>3+kk</span><span>88&nbsp;m²</span></p>
+    <p class="card-price">44&nbsp;000&nbsp;Kč<small>&nbsp;/&nbsp;měsíc</small></p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="ostatni" data-reg="jm" data-price="0" data-area="19082" data-date="2026-06-11">
+  <a class="card-media" href="../nemovitost/prodej-komercniho-arealu-zdrava-voda-zarosice/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21711/00-s.webp" alt="Prodej komerčního areálu Zdravá voda – Žarošice" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21711/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>12</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Areál</span><span>Zdravá Voda – Žarošice</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-komercniho-arealu-zdrava-voda-zarosice/">Prodej komerčního areálu Zdravá voda – Žarošice</a></h3>
+    <p class="card-facts"><span>19&nbsp;082&nbsp;m²</span></p>
+    <p class="card-price">Cena na dotaz</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="ostatni" data-reg="jm" data-price="3180000" data-area="487" data-date="2026-01-23">
+  <a class="card-media" href="../nemovitost/prodej-domu-velke-hosteradky/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21305/00-s.webp" alt="Prodej domu Velké Hostěrádky" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21305/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>11</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Velké Hostěrádky</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-domu-velke-hosteradky/">Prodej domu Velké Hostěrádky</a></h3>
+    <p class="card-facts"><span>487&nbsp;m²</span></p>
+    <p class="card-price">3&nbsp;180&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="ostatni" data-reg="jm" data-price="0" data-area="40" data-date="2026-01-23">
+  <a class="card-media" href="../nemovitost/prodej-chaty-v-herolticich-u-tisnova/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21335/00-s.webp" alt="Prodej chaty v Herolticích u Tišnova" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21335/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>11</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Chata</span><span>Heroltice u Tišnova</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-chaty-v-herolticich-u-tisnova/">Prodej chaty v&nbsp;Herolticích u&nbsp;Tišnova</a></h3>
+    <p class="card-facts"><span>40&nbsp;m²</span><span>pozemek 458&nbsp;m²</span></p>
+    <p class="card-price">Cena na dotaz</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="byty" data-reg="sk" data-price="7800000" data-area="64" data-date="2026-01-22">
+  <a class="card-media" href="../nemovitost/prodej-bytu-3-kk-64-m2-v-bratislave/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/20995/00-s.webp" alt="Prodej bytu 3+kk 64 m² v Bratislavě" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/20995/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Byt</span><span>Bratislava</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-bytu-3-kk-64-m2-v-bratislave/">Prodej bytu 3+kk 64 m² v&nbsp;Bratislavě</a></h3>
+    <p class="card-facts"><span>3+kk</span><span>64&nbsp;m²</span></p>
+    <p class="card-price">7&nbsp;800&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="ostatni" data-reg="jm" data-price="6490000" data-area="209" data-date="2025-06-18">
+  <a class="card-media" href="../nemovitost/vinarstvi-sedlec-u-mikulova-prodej/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/21012/00-s.webp" alt="Vinařství Sedlec u Mikulova – prodej" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/21012/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>11</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Vinařství</span><span>Sedlec u Mikulova</span></p>
+    <h3 class="card-title"><a href="../nemovitost/vinarstvi-sedlec-u-mikulova-prodej/">Vinařství Sedlec u&nbsp;Mikulova – prodej</a></h3>
+    <p class="card-facts"><span>209&nbsp;m²</span><span>pozemek 1&nbsp;258&nbsp;m²</span></p>
+    <p class="card-price">6&nbsp;490&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="ostatni" data-reg="jm" data-price="4999000" data-area="55" data-date="2025-05-18">
+  <a class="card-media" href="../nemovitost/luxusni-chata-na-prodej-ochoz/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/20953/00-s.webp" alt="Luxusní chata na prodej – Ochoz" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/20953/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>10</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Chata</span><span>Ochoz u Brna</span></p>
+    <h3 class="card-title"><a href="../nemovitost/luxusni-chata-na-prodej-ochoz/">Luxusní chata na prodej – Ochoz</a></h3>
+    <p class="card-facts"><span>55&nbsp;m²</span><span>pozemek 163&nbsp;m²</span></p>
+    <p class="card-price">4&nbsp;999&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="pozemky" data-reg="jm" data-price="3085000" data-area="619" data-date="2025-04-01">
+  <a class="card-media" href="../nemovitost/prodej-stavebni-parcely-boskovice/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/20779/00-s.webp" alt="Prodej stavební parcely Boskovice" loading="lazy" decoding="async" width="760" height="428"><img class="alt" src="../assets/img/n/20779/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span><span class="badge badge-y">TOP nabídka</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>4</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Pozemek</span><span>Boskovice</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-stavebni-parcely-boskovice/">Prodej stavební parcely Boskovice</a></h3>
+    <p class="card-facts"><span>619&nbsp;m²</span></p>
+    <p class="card-price">3&nbsp;085&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="domy" data-reg="zlin" data-price="7500000" data-area="142" data-date="2025-01-26">
+  <a class="card-media" href="../nemovitost/prodej-rodinneho-domu-5-1-napajedla/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/20577/00-s.webp" alt="Prodej rodinného domu 5+1 Napajedla" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/20577/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>10</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Napajedla</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-rodinneho-domu-5-1-napajedla/">Prodej rodinného domu 5+1 Napajedla</a></h3>
+    <p class="card-facts"><span>5+1</span><span>142&nbsp;m²</span><span>pozemek 411&nbsp;m²</span></p>
+    <p class="card-price">7&nbsp;500&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="domy" data-reg="zlin" data-price="10000000" data-area="300" data-date="2024-04-01">
+  <a class="card-media" href="../nemovitost/prodej-rodinneho-domu-300-m2-pozemek-378-m2-luhacovice/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/18644/00-s.webp" alt="Prodej rodinného domu 300 m², pozemek 378 m² Luhačovice" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/18644/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span><span class="badge badge-y">TOP nabídka</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Luhačovice</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-rodinneho-domu-300-m2-pozemek-378-m2-luhacovice/">Prodej rodinného domu 300 m², pozemek 378 m² Luhačovice</a></h3>
+    <p class="card-facts"><span>300&nbsp;m²</span><span>pozemek 378&nbsp;m²</span></p>
+    <p class="card-price">10&nbsp;000&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="domy" data-reg="jm" data-price="0" data-area="125" data-date="2024-03-28">
+  <a class="card-media" href="../nemovitost/prodej-rodinneho-domu-125-m2-pozemek-612-m2-v-obci-divaky/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/19720/00-s.webp" alt="Prodej rodinného domu 125 m², pozemek 612 m² v obci Diváky" loading="lazy" decoding="async" width="760" height="428"><img class="alt" src="../assets/img/n/19720/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Diváky</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-rodinneho-domu-125-m2-pozemek-612-m2-v-obci-divaky/">Prodej rodinného domu 125 m², pozemek 612 m² v&nbsp;obci Diváky</a></h3>
+    <p class="card-facts"><span>2+1</span><span>125&nbsp;m²</span><span>pozemek 612&nbsp;m²</span></p>
+    <p class="card-price">Cena na dotaz</p>
+  </div>
+</article><article class="card rv" data-kind="pronajem" data-cat="domy" data-reg="brno" data-price="46000" data-area="179" data-date="2024-02-28">
+  <a class="card-media" href="../nemovitost/pronajem-rodinneho-domu-179-m2-pozemek-186-m2-brno/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/18801/00-s.webp" alt="Pronájem rodinného domu 179 m², pozemek 186 m² Brno" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/18801/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Pronájem</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Brno – Tuřany</span></p>
+    <h3 class="card-title"><a href="../nemovitost/pronajem-rodinneho-domu-179-m2-pozemek-186-m2-brno/">Pronájem rodinného domu 179 m², pozemek 186 m² Brno</a></h3>
+    <p class="card-facts"><span>179&nbsp;m²</span><span>pozemek 186&nbsp;m²</span></p>
+    <p class="card-price">46&nbsp;000&nbsp;Kč<small>&nbsp;/&nbsp;měsíc</small></p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="domy" data-reg="brno" data-price="12560000" data-area="179" data-date="2024-02-28">
+  <a class="card-media" href="../nemovitost/prodej-vicegeneracniho-domu-179-m2-pozemek-186-m2/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/18567/00-s.webp" alt="Prodej vícegeneračního domu 179 m², pozemek 186 m²" loading="lazy" decoding="async" width="760" height="506"><img class="alt" src="../assets/img/n/18567/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Dům</span><span>Brno – Tuřany</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-vicegeneracniho-domu-179-m2-pozemek-186-m2/">Prodej vícegeneračního domu 179 m², pozemek 186 m²</a></h3>
+    <p class="card-facts"><span>179&nbsp;m²</span><span>pozemek 186&nbsp;m²</span></p>
+    <p class="card-price">12&nbsp;560&nbsp;000&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="pronajem" data-cat="komercni" data-reg="brno" data-price="46000" data-area="179" data-date="2024-02-28">
+  <a class="card-media" href="../nemovitost/pronajem-kancelare-179-m2-brno-turany/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/18592/00-s.webp" alt="Pronájem kanceláře 179 m² Brno-Tuřany" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/18592/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Pronájem</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Komerční</span><span>Brno – Tuřany</span></p>
+    <h3 class="card-title"><a href="../nemovitost/pronajem-kancelare-179-m2-brno-turany/">Pronájem kanceláře 179 m² Brno-Tuřany</a></h3>
+    <p class="card-facts"><span>179&nbsp;m²</span></p>
+    <p class="card-price">46&nbsp;000&nbsp;Kč<small>&nbsp;/&nbsp;měsíc</small></p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="pozemky" data-reg="jm" data-price="5262500" data-area="421" data-date="2024-02-28">
+  <a class="card-media" href="../nemovitost/prodej-stavebniho-pozemku-421-m2-syrovice/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/18454/00-s.webp" alt="Prodej stavebního pozemku 421 m² Syrovice" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/18454/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Pozemek</span><span>Syrovice</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-stavebniho-pozemku-421-m2-syrovice/">Prodej stavebního pozemku 421 m² Syrovice</a></h3>
+    <p class="card-facts"><span>421&nbsp;m²</span></p>
+    <p class="card-price">5&nbsp;262&nbsp;500&nbsp;Kč</p>
+  </div>
+</article><article class="card rv" data-kind="prodej" data-cat="komercni" data-reg="brno" data-price="12560000" data-area="179" data-date="2024-02-28">
+  <a class="card-media" href="../nemovitost/prodej-kancelare-179-m2-brno-turany/" tabindex="-1" aria-hidden="true">
+    <img src="../assets/img/n/18614/00-s.webp" alt="Prodej kanceláře 179 m² Brno-Tuřany" loading="lazy" decoding="async" width="760" height="507"><img class="alt" src="../assets/img/n/18614/01-s.webp" alt="" loading="lazy" decoding="async">
+    <span class="card-badges"><span class="badge badge-k">Prodej</span></span>
+    <span class="card-count"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>14</span>
+  </a>
+  <div class="card-body">
+    <p class="card-meta"><span>Komerční</span><span>Brno – Tuřany</span></p>
+    <h3 class="card-title"><a href="../nemovitost/prodej-kancelare-179-m2-brno-turany/">Prodej kanceláře 179 m² Brno-Tuřany</a></h3>
+    <p class="card-facts"><span>179&nbsp;m²</span></p>
+    <p class="card-price">12&nbsp;560&nbsp;000&nbsp;Kč</p>
+  </div>
+</article>
+    </div>
+    <div class="empty" hidden>
+      <p class="h3">Tomu teď nic neodpovídá.</p>
+      <p>Napište nám, co hledáte – často máme nemovitosti dřív, než se dostanou na portály.</p>
+      <a class="btn btn-k" href="../#kontakt">Popsat, co hledám <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+    <aside class="watch rv">
+      <div><p class="h3">Nenašli jste to pravé?</p><p>Řekněte nám, co hledáte, a&nbsp;ozveme se, jakmile se objeví. Ať vám neuteče žádná nabídka.</p></div>
+      <a class="btn btn-y" href="../#kontakt">Hlídat nabídku <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </aside>
+  </div>
+</section>
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot-top">
+      <img class="foot-logo" src="../assets/img/site/logo-light.png" alt="Real Marco" width="720" height="185" loading="lazy">
+      <p class="foot-claim">Realitní kancelář <em>na&nbsp;úrovni.</em><br>Prodej, pronájem a&nbsp;správa nemovitostí v&nbsp;Brně a&nbsp;okolí.</p>
+    </div>
+    <div class="foot-cols">
+      <div><h4>Kancelář</h4><p>Hlinky 118, 603 00 Brno<br>Staré Brno</p></div>
+      <div><h4>Kontakt</h4><p><a class="ul" href="tel:+420603954846">+420 603 954 846</a><br><a class="ul" href="mailto:info@realmarco.cz">info@realmarco.cz</a></p></div>
+      <div><h4>Web</h4><p><a class="ul" href="../nabidka/">Nabídka nemovitostí</a><br><a class="ul" href="../#makleri">Naši makléři</a><br><a class="ul" href="../#development">Development Syrovice</a></p></div>
+      <div><h4>Sledujte nás</h4><p class="foot-soc"><a href="https://www.facebook.com/realmarcocz" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 8h3V4h-3a4 4 0 0 0-4 4v2H7v4h3v7h4v-7h3l1-4h-4V8z"/></svg></a><a href="https://www.instagram.com/realmarcocz/" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r=".6"/></svg></a></p></div>
+    </div>
+    <div class="foot-bot">
+      <span>© 2026 Real Marco · Chateau Marco, s.r.o., IČ 29237394</span>
+      <span>Návrh webu: <a class="ul" href="https://webhunter.cz" target="_blank" rel="noopener">WebHunter</a></span>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,2969 @@
+{
+ "listings": [
+  {
+   "id": 21804,
+   "slug": "prodej-rodinneho-domu-zarici",
+   "title": "Prodej rodinného domu Záříčí",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-rodinneho-domu-zarici/",
+   "date": "2026-09-21",
+   "kind": "Prodej",
+   "cat": "Rodinné domy",
+   "price": 8290000,
+   "monthly": false,
+   "note": "celková cena vč. právního servisu a provize",
+   "addr": "768 11 Záříčí",
+   "area": 148.0,
+   "land": 900.0,
+   "disp": "5+1",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "148"
+    ],
+    [
+     "Plocha pozemku m²",
+     "900"
+    ],
+    [
+     "Plocha zahrady m²",
+     "750"
+    ],
+    [
+     "Číslo zakázky",
+     "00362"
+    ]
+   ],
+   "desc": "Rodinný dům 5+1 s dvojgaráží, krytou terasou a výhledem do přírody – Záříčí\nKe koupi nabízíme prostorný rodinný dům na klidném místě, kde budete mít dostatek soukromí, vlastní zahradu a místo k odpočinku. Dům stojí v obci Záříčí, na okraji zástavby s krásným výhledem do okolní krajiny.\nSamostatně stojící rodinný dům o dispozici 5+1 byl dokončen přibližně před 20 lety a nabízí promyšlené uspořádání prostoru pro pohodlné rodinné bydlení. K domu vede asfaltová příjezdová komunikace a jeho poloha na okraji obce zaručuje klidné prostředí s minimálním provozem.\nK domu nyní náleží pozemek o celkové výměře 1887 m2, ze kterého bude novým geometrickým plánem oddělena zhruba polovina, která zůstane majiteli. Předmětem prodeje je tedy cca 900 m2 zahrady. Náklady s tímto spojené nese majitel pozemku.\nDominantou přízemí je obývací pokoj propojený s kuchyní, odkud je přímý vstup na krytou terasu a do zahrady. Srdcem obytného prostoru je krb umístěný uprostřed obývacího pokoje, který nejen vytváří příjemnou atmosféru, ale díky rozvodům teplého vzduchu efektivně vytápí také druhé patro domu. V přízemí se dále nachází koupelna s toaletou a pokoj, který je v současnosti využíván jako šatna.\nHorní podlaží nabízí tři samostatné ložnice a prostornou koupelnu, takže každý člen rodiny získá dostatek soukromí i komfortu.\nO vytápění se stará elektrický kotel nebo klimatizace s funkcí vytápění, což umožňuje flexibilně reagovat na aktuální potřeby i ceny energií. Významnou úsporu během zimních měsíců přináší právě centrálně umístěný krb.\nVelkým benefitem je také prostorná zděná garáž, přistavěná dodatečně, která nabízí parkování pro dvě až tři vozidla a další místo k uložení kol, nářadí, sekačky apod. Z garáže se dostanete přímo na pozemek za domem.\nDům je ideální volbou pro rodinu, která hledá klidné bydlení v menší, živé obci, ale zároveň chce mít města Chropyni a Kroměříž v pohodlné dojezdové vzdálenosti.\nHlavní přednosti\n• rodinný dům o dispozici 5+1\n• klidná lokalita na okraji obce\n• krásný výhled do okolní přírody\n• krytá terasa navazující na zahradu\n• prostorný obývací pokoj s centrálním krbem\n• rozvody teplého vzduchu do horního podlaží\n• vytápění elektrickým kotlem nebo klimatizací\n• tři samostatné ložnice\n• dvě koupelny\n• zděná garáž pro 2–3 automobily\n• asfaltová příjezdová komunikace\nPokud hledáte dům, který spojuje klid venkovského bydlení, praktickou dispozici a příjemné rodinné zázemí, rádi Vás osobní prohlídkou.",
+   "amen": [
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod"
+   ],
+   "feats": [
+    "Parkovací místo",
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Poloha domu: samostatný",
+    "Stavba: cihlová",
+    "Stav objektu: velmi dobrý",
+    "Vybavení: částečně"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Novinka"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21804/00-s.webp",
+     "l": "assets/img/n/21804/00-l.webp",
+     "w": 2400,
+     "h": 1599,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/01-s.webp",
+     "l": "assets/img/n/21804/01-l.webp",
+     "w": 2400,
+     "h": 1599,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/02-s.webp",
+     "l": "assets/img/n/21804/02-l.webp",
+     "w": 2400,
+     "h": 1599,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/03-s.webp",
+     "l": "assets/img/n/21804/03-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/04-s.webp",
+     "l": "assets/img/n/21804/04-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/05-s.webp",
+     "l": "assets/img/n/21804/05-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/06-s.webp",
+     "l": "assets/img/n/21804/06-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/07-s.webp",
+     "l": "assets/img/n/21804/07-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21804/08-s.webp",
+     "l": "assets/img/n/21804/08-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 21755,
+   "slug": "prodej-designoveho-bytu-v-herspicich",
+   "title": "Prodej designového bytu v Heršpicích",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-velkeho-rodinneho-domu-brno/",
+   "date": "2026-09-19",
+   "kind": "Prodej",
+   "cat": "Byty",
+   "price": 7490000,
+   "monthly": false,
+   "note": "+ provize RK",
+   "addr": "Řepova 793/3a, 619 00 Brno",
+   "area": 42.2,
+   "land": null,
+   "disp": "1+kk",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "42,2"
+    ],
+    [
+     "Sklep m²",
+     "3"
+    ],
+    [
+     "Číslo zakázky",
+     "0361"
+    ]
+   ],
+   "desc": "Nabízíme k prodeji designový byt 1+kk o výměře 42,4 m², situovaný v 6. nadzemním podlaží novostavby z roku 2024 (projekt Panorama Jih) na ulici Řepova v Brně – Horních Heršpicích.\nByt zaujme netradičním půdorysem a interiérem navrženým na míru současnému majiteli oceňovaným designovým studiem POSTROP. Individuální řešení se promítá do obytného prostoru i koupelny a dává bytu osobitý charakter s důrazem na funkční využití prostoru.\nInstalované zatemňovací závěsy mohou změnit dispozici bytu na 1+1 za pár sekund. V případě nutnosti lze také vybudovat sádrokartonovou příčku a rozdělit byt na dvě místnosti.\nKuchyňská linka je vybavena spotřebiči značky Bosch.\nKomfort během teplých měsíců zajišťuje klimatizace a venkovní screenové rolety.\nZ obytného prostoru je vstup na balkon s otevřeným výhledem do širokého okolí a směrem na Pálavu. Umístění v 6. nadzemním podlaží a pouze jeden sousední byt přispívají k příjemně klidné atmosféře bydlení. Balkón je vybaven designovým nábytkem a také postranními perforovanými zástěnami k udržení soukromí i venku.\nPro rychlé internetové připojení je k dispozici optický kabel.\nByt byl od dokončení domu v roce 2024 obýván pouze sporadicky, a je proto ve výborném bezvadném stavu. Součástí nabídky je také sklep a vlastní venkovní parkovací stání.\nProjet Panorama Jih je velmi zdařilým architektonickým počinem. Zkulturnění veřejného vnitrobloku a výsadba zeleně v okolí domu výrazně přispívá ke kvalitě bydlení.\nHorní Heršpice nabízejí praktické spojení bydlení v nové rezidenční zástavbě s dobrou dostupností centra Brna. V dosahu jsou obchody, služby i možnosti volnočasového vyžití. Výhodou je rovněž rychlé napojení na městský okruh a hlavní komunikace včetně dálnic D1 a D2.\nTento byt osloví především zájemce, kteří hledají kvalitní moderní bydlení s promyšleným ojedinělým interiérem a dobrou dostupností města.\nRádi Vám jej představíme při osobní prohlídce.\n______________________________________________________\nUvedené výměry jsou orientační. Majitel si vyhrazuje právo vybrat kupujícího na základě jím zvolených kritérií. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu §1731nebo§1732 občanského zákoníku, ani se nejedná o veřejný příslib dle §1733 občanského zákoníku.",
+   "amen": [
+    "Škola",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Parkovací místo",
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Stav objektu: novostavba",
+    "6. podlaží",
+    "Internet",
+    "Sklep",
+    "Vybavení: s vybavením"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Novinka",
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21755/00-s.webp",
+     "l": "assets/img/n/21755/00-l.webp",
+     "w": 1448,
+     "h": 1086,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21755/01-s.webp",
+     "l": "assets/img/n/21755/01-l.webp",
+     "w": 1448,
+     "h": 1086,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21755/02-s.webp",
+     "l": "assets/img/n/21755/02-l.webp",
+     "w": 1448,
+     "h": 1086,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21755/03-s.webp",
+     "l": "assets/img/n/21755/03-l.webp",
+     "w": 1672,
+     "h": 941,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21755/04-s.webp",
+     "l": "assets/img/n/21755/04-l.webp",
+     "w": 1448,
+     "h": 1086,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21755/05-s.webp",
+     "l": "assets/img/n/21755/05-l.webp",
+     "w": 1448,
+     "h": 1086,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21755/06-s.webp",
+     "l": "assets/img/n/21755/06-l.webp",
+     "w": 1296,
+     "h": 903,
+     "plan": true
+    }
+   ]
+  },
+  {
+   "id": 21744,
+   "slug": "prodej-rd-klecuvka-zlin",
+   "title": "Prodej RD Klečůvka-Zlín",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-rd-zlin/",
+   "date": "2026-09-17",
+   "kind": "Prodej",
+   "cat": "Rodinné domy",
+   "price": null,
+   "monthly": false,
+   "note": "",
+   "addr": "Zlín Klečůvka",
+   "area": 82.0,
+   "land": 677.0,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "82"
+    ],
+    [
+     "Plocha pozemku m²",
+     "677"
+    ],
+    [
+     "Číslo zakázky",
+     "0324"
+    ]
+   ],
+   "desc": "Nabízíme k prodeji rodinný dům o podlahové ploše 82 m², situovaný na pozemku o celkové výměře 677 m² v klidné části obce Klečůvka u Zlína. Nemovitost nabízí dvě terasy, vlastní studnu pro zavlažování zahrady, zahradní domek, kryté parkovací stání a dostatek soukromí.\nPři vstupu do domu vás přivítá zastřešená terasa o výměře 20,0 m², která tvoří hlavní vstup a poskytuje prostor pro posezení po většinu roku. Odtud vstoupíte do předsíně o velikosti 9,2 m², která navazuje na hlavní obytnou část domu.\nSrdcem domu je světlý obývací pokoj s kuchyňským koutem o výměře 24,5 m². Kuchyňská linka s vestavěnými spotřebiči nabízí dostatek pracovního i úložného prostoru. Dominantou místnosti jsou krbová kamna, která dodávají interiéru útulný charakter a doplňují podlahové vytápění instalované v domě.\nZ předsíně vede schodiště do podkroví. Na podestě o výměře 3,8 m² je umístěn vestavěný nábytek a navazuje zde podkrovní prostor o velikosti 13,9 m². Současní majitelé jej využívají jako dětský pokoj, stejně dobře však může sloužit jako pracovna, pokoj pro hosty nebo hobby místnost.\nNa obytný prostor navazuje chodba o výměře 3,9 m², která odděluje soukromou část domu. Praktické posuvné dveře vedou do koupelny o výměře 5,0 m² vybavené vanou, sprchovým koutem, WC a plynovým kondenzačním kotlem. Ze stejné chodby je vstup do pracovny o velikosti 6,9 m², vhodné také jako šatna nebo domácí kancelář, a do ložnice o výměře 15,2 m².\nZ ložnice je přímý vstup na druhou terasu o výměře 11,2 m², která poskytuje soukromí, prostor pro odpočinek a výhled do okolní zeleně.\nDům je částečně podsklepený. Sklep o výměře 8,0 m² poskytuje praktický úložný prostor pro sezónní vybavení, nářadí nebo potraviny.\nSoučástí pozemku je také zahradní domek o výměře 16,0 m² vhodný pro uskladnění zahradní techniky, kol či sportovního vybavení. Výhodou je vlastní studna využívaná k zavlažování zahrady, která pomáhá snižovat náklady na její údržbu. Parkování zajišťuje kryté parkovací stání o výměře 16,0 m² přímo na pozemku a další dvě venkovní parkovací místa před domem.\nDům je zděný, zateplený a průběžně udržovaný. Podle dostupné dokumentace prošel v roce 2011 rozsáhlejší modernizací. Komfort bydlení zajišťuje podlahové vytápění, plastová okna, střešní okna, plynový kondenzační kotel a krbová kamna. Nemovitost spojuje praktické dispoziční řešení, soukromí a dobře využitelný pozemek.\nO lokalitě\nKlečůvka je vyhledávaná místní část statutárního města Zlína, která nabízí klidné bydlení v zeleni s rychlou dostupností městských služeb. Nachází se v prostředí Vizovických vrchů, přibližně 8 km od centra Zlína, kam se pohodlně dostanete během několika minut autem i pravidelnou autobusovou dopravou.\nLokalita je oblíbená především díky okolní přírodě, venkovskému charakteru a dobré občanské dostupnosti. V okolí se nachází řada turistických a cyklistických tras, které nabízejí možnosti aktivního trávení volného času. Spojení klidného prostředí, soukromí a blízkosti krajského města činí z Klečůvky atraktivní místo pro každodenní život.\nDispozice a výměry\npředsíň: 9,2 m²\nobývací pokoj s kuchyňským koutem: 24,5 m²\nchodba: 3,9 m²\nkoupelna: 5,0 m²\npracovna: 6,9 m²\nložnice: 15,2 m²\npodesta: 3,8 m²\npodkrovní prostor: 13,9 m²\nPodlahová plocha domu: 82,4 m²\nPozemek: 677 m²\nDům je připraven k okamžitému bydlení a představuje zajímavou volbu pro zájemce, kteří hledají vlastní zahradu, soukromí a bydlení v dosahu Zlína.\nUvedené výměry jsou orientační. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu § 1731 nebo § 1732 občanského zákoníku ani veřejným příslibem dle § 1733 občanského zákoníku.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Parkovací místo",
+    "Typ domu: patrový"
+   ],
+   "broker": "Dušan Valach",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21744/00-s.webp",
+     "l": "assets/img/n/21744/00-l.webp",
+     "w": 1920,
+     "h": 1279,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/01-s.webp",
+     "l": "assets/img/n/21744/01-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/02-s.webp",
+     "l": "assets/img/n/21744/02-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/03-s.webp",
+     "l": "assets/img/n/21744/03-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/04-s.webp",
+     "l": "assets/img/n/21744/04-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/05-s.webp",
+     "l": "assets/img/n/21744/05-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/06-s.webp",
+     "l": "assets/img/n/21744/06-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/07-s.webp",
+     "l": "assets/img/n/21744/07-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/08-s.webp",
+     "l": "assets/img/n/21744/08-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21744/09-s.webp",
+     "l": "assets/img/n/21744/09-l.webp",
+     "w": 1920,
+     "h": 1357,
+     "plan": true
+    }
+   ]
+  },
+  {
+   "id": 21319,
+   "slug": "prodej-bytu-3-kk-91-m2-kurim",
+   "title": "Prodej bytu 3+kk 91 m² Kuřim",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-bytu-3kk-91-m%c2%b2-kurim/",
+   "date": "2026-09-14",
+   "kind": "Prodej",
+   "cat": "Byty",
+   "price": 7880000,
+   "monthly": false,
+   "note": "bez provize RK",
+   "addr": "Bezručova čtvrť 840/13, 664 34 Kuřim",
+   "area": 91.0,
+   "land": null,
+   "disp": "3+kk",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "91"
+    ],
+    [
+     "Sklep m²",
+     "2"
+    ],
+    [
+     "Číslo zakázky",
+     "0267"
+    ]
+   ],
+   "desc": "Ke koupi nabízíme velký vzdušný podkrovní byt v centru Kuřimi, přímo na náměstí Osvobození s krásnými výhledy do okolních lesů.\nByt má dispozici 3+kk, podlahovou plochu 91 m2 a náleží k němu sklep. Je umístěn na 4. podlaží cihlového domu ve střešní nástavbě. Předmětem prodeje není nábytek, vyjma kuchyňské linky.\nVytápění bytu a ohřev vody je realizováno samostatným plynovým kondenzačním kotlem. Tento systém vytápění je úsporný s absolutní možností kontroly vynaložených nákladů.\nHlavními designovými prvky v interiéru jsou krásné dřevěné nosné trámy. Vstupní chodba bytu je ozvláštněna krátkým schodištěm. Celý prostor je chodby působí velmi vzdušně a světle. V bytě je spousta úložných prostor a vestavěných skříní.\nDominantním prostorem je obývací pokoj s kuchyní ve tvaru L. Světlo přináší velkoformátové okno s výhledem do krajiny a také na nově rekonstruované náměstí a klidného vnitrobloku.\nV chodbě je prostorná koupelna s vanou a sprchovým koutem, je zde i místo na pračku. Toaleta je samostatná.\nV roce 2018 proběhla kompletní rekonstrukce střechy a oken (Velux, trojskla).\nEnergetická třída F.\nCelkové náklady na bydlení: cca 7.000,- Kč / měsíc (včetně TV, internetu a všech záloh a plateb do SVJ.\nOkolí bytu přináší benefity bydlení v krásném centru dynamicky se rozvíjejícího města, ale zároveň uprostřed krásné přírody. Ve vnitrobloku domů s parkovou úpravou je klidné dětské hřiště a spousta odpočinkových zón. V docházkové vzdálenosti jsou sportoviště (aquapark, sportovní hala), obchody, restaurace i knihovna.\nKuřim je úzce spojena s jihomoravskou metropolí (15 minut autem i vlakem), zároveň je však svébytným plně občansky vybaveným městem.\nV případě zájmu vás rádi uvítáme na osobní prohlídce. Jsme připraveni poskytnout stoprocentní péči i v případě nutnosti financovat nemovitost pomocí hypotéčního úvěru.\n______________________________________________________\nUvedené výměry jsou orientační. V případě více zájemců bude nemovitost prodána nejlepší nabídce. Majitel si vyhrazuje právo vybrat kupujícího na základě jím zvolených kritérií. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu §1731nebo§1732 občanského zákoníku, ani se nejedná o veřejný příslib dle §1733 občanského zákoníku.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Stavba: cihlová",
+    "Plyn",
+    "4. podlaží",
+    "Internet",
+    "Sklep"
+   ],
+   "broker": "Tamara Hanáková",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/21319/00-s.webp",
+     "l": "assets/img/n/21319/00-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/01-s.webp",
+     "l": "assets/img/n/21319/01-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/02-s.webp",
+     "l": "assets/img/n/21319/02-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/03-s.webp",
+     "l": "assets/img/n/21319/03-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/04-s.webp",
+     "l": "assets/img/n/21319/04-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/05-s.webp",
+     "l": "assets/img/n/21319/05-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/06-s.webp",
+     "l": "assets/img/n/21319/06-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/07-s.webp",
+     "l": "assets/img/n/21319/07-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/08-s.webp",
+     "l": "assets/img/n/21319/08-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/09-s.webp",
+     "l": "assets/img/n/21319/09-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/10-s.webp",
+     "l": "assets/img/n/21319/10-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/11-s.webp",
+     "l": "assets/img/n/21319/11-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/12-s.webp",
+     "l": "assets/img/n/21319/12-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21319/13-s.webp",
+     "l": "assets/img/n/21319/13-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 21465,
+   "slug": "prodej-bytu-4-1-brno-120-m2",
+   "title": "Prodej bytu 4+1 Brno 120 m²",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-bytu-41-brno-120-m2/",
+   "date": "2026-09-13",
+   "kind": "Prodej",
+   "cat": "Byty",
+   "price": 10950000,
+   "monthly": false,
+   "note": "",
+   "addr": "Jugoslávská, 601 47 Brno",
+   "area": 120.0,
+   "land": null,
+   "disp": "4+1",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "120"
+    ],
+    [
+     "Lodžie m²",
+     "8"
+    ],
+    [
+     "Sklep m²",
+     "8"
+    ],
+    [
+     "Plocha zahrady m²",
+     "219"
+    ],
+    [
+     "Číslo zakázky",
+     "271"
+    ]
+   ],
+   "desc": "Hledáte velkorysý prvorepublikový byt s výhledem do zeleně, vysokými stropy a atmosférou, kterou jinde v Brně nenajdete.\nVe výhradním zastoupení majitele nabízím k prodeji prostorný byt o dispozici 4+1 (120 m²), umístěný ve 3. patře elegantního cihlového domu z roku cca 1913. Ulice Jugoslávská patří dlouhodobě k nejvyhledávanějším adresám v Černých Polích – spojuje prestižní atmosféru staré zástavby, vynikající občanskou vybavenost i rychlý dosah do centra. Jen několik kroků od domu se nachází oblíbený park Schreberovy zahrádky s relaxačními zónami, vzrostlou zelení, komunitními zahrádkami i dětským hřištěm. Ideální místo pro ranní kávu, procházku i odpočinek během dne.\nByt je určen k celkové rekonstrukci – a právě to je jeho největší výhoda. Velkorysé dispozice, vysoké stropy 3,4 m, původní rozvržení „do kruhu“ i osobitý prvorepublikový charakter dávají prostor vytvořit moderní interiér na míru. Do klidného vnitrobloku je orientován prostorný balkon (7,8 m²) s výhledem do zeleně a k bytu náleží také velký sklep 8,2 m². Součástí domu je společná zahrada o výměře 219 m², kterou mohou vlastníci využívat k posezení, relaxaci či drobnému pěstování – příjemné a tiché místo uprostřed města.\nDispozice bytu (120 m²)\nVstupní část:\n• předsíň 12,3 m²\nPravá část:\n• kuchyně 15 m² se vstupem na balkon\n• balkon 7,8 m²\n• pracovna 6 m²\nStřed – hygienické zázemí:\n• koupelna 4 m²\n• samostatné WC 1,1 m²\n• komora 0,75 m²\nLevá část – obytné pokoje:\n• obývací pokoj 26 m²\n• pokoj 22 m²\n• pokoj 19 m² (průchozí)\n________________________________________\nTechnický stav bytu\nByt je v původním stavu – vhodný ke kompletní rekonstrukci.\n• původní elektrické rozvody v hliníku\n• vytápění pomocí WAW\n• ohřev vody elektrickým bojlerem\n• podlahy jsou původní dřevěné – parkety a prkna, na kterých je pouze volně položené lino a koberce (nelepené)\n• okna trojskla\nK bytu náleží sklepní kóje (8,2 m²).\n________________________________________\nSVJ a dům\nDům je klidný, cihlový a dobře spravovaný. SVJ funguje velmi dobře, hospodaří bez dluhů, má splacené všechny úvěry a v nejbližších letech neplánuje žádné velké investice či opravy.\n________________________________________\nProč právě tento byt?\n• 120 m² vzdušného bydlení s atmosférou prvorepublikové architektury\n• vysoké stropy 3,4 m – pocit prostoru a elegance\n• prostorný balkon orientovaný do tichého zeleného vnitrobloku\n• velký sklep + společná zahrada 219 m²\n• možnost vytvořit dva neprůchozí velké pokoje + další samostatný pokoj\n• top lokalita Černá Pole – pár minut do centra, vše v pěší dostupnosti\n• park Schreberovy zahrádky doslova za rohem\n• dobře fungující SVJ bez úvěrů a bez plánovaných velkých oprav\n• jasná investiční perspektiva – lokalita, do které se kupuje „na jistotu“\nUvedené výměry jsou orientační. V případě více zájemců bude nemovitost prodána nejlepší nabídce. Majitel si vyhrazuje právo vybrat kupujícího na základě jím zvolených kritérií. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu §1731nebo§1732 občanského zákoníku, ani se nejedná o veřejný příslib dle §1733 občanského zákoníku.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Stavba: cihlová",
+    "Stav objektu: velmi dobrý",
+    "Plyn",
+    "Balkón",
+    "3. podlaží"
+   ],
+   "broker": "Dušan Valach",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21465/00-s.webp",
+     "l": "assets/img/n/21465/00-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/01-s.webp",
+     "l": "assets/img/n/21465/01-l.webp",
+     "w": 1920,
+     "h": 1281,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/02-s.webp",
+     "l": "assets/img/n/21465/02-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/03-s.webp",
+     "l": "assets/img/n/21465/03-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/04-s.webp",
+     "l": "assets/img/n/21465/04-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/05-s.webp",
+     "l": "assets/img/n/21465/05-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/06-s.webp",
+     "l": "assets/img/n/21465/06-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/07-s.webp",
+     "l": "assets/img/n/21465/07-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/08-s.webp",
+     "l": "assets/img/n/21465/08-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/09-s.webp",
+     "l": "assets/img/n/21465/09-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/10-s.webp",
+     "l": "assets/img/n/21465/10-l.webp",
+     "w": 1920,
+     "h": 1280,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21465/11-s.webp",
+     "l": "assets/img/n/21465/11-l.webp",
+     "w": 950,
+     "h": 1116,
+     "plan": true
+    }
+   ]
+  },
+  {
+   "id": 21569,
+   "slug": "prodej-stavebniho-pozemku-zavist",
+   "title": "Prodej stavebního pozemku Závist",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-pozemku-824-m2-zavist/",
+   "date": "2026-09-11",
+   "kind": "Prodej",
+   "cat": "Pozemky",
+   "price": 6822720,
+   "monthly": false,
+   "note": "celková cena",
+   "addr": "Závist",
+   "area": null,
+   "land": 824.0,
+   "disp": "",
+   "params": [
+    [
+     "Plocha pozemku m²",
+     "824"
+    ],
+    [
+     "Číslo zakázky",
+     "298"
+    ]
+   ],
+   "desc": "Ke koupi nabízíme stavební pozemek v malebné krajině obce Závist v okrese Blansko. Předmětem prodeje jsou tři vedle sebe ležící, nově vybudované stavební pozemky různých rozměrů.\nPozemek č. 3 – výměra 824 m2\nK pozemku povede nově vybudovaná komunikace. Inženýrské sítě (elektřina, voda, dešťová kanalizace) přivedeny k hranici pozemku.\nČasový harmonogram dokončení všech prací:\nVoda, dešťová kanalizace – hotovo\nElektřina – 10/2026\nPříjezdová cesta – 06/2026\nKolaudace – 08/2026\nV obci není zavedena splašková kanalizační síť, v plánu je její vybudování v horizontu 10 let.\nPozemek se nachází na krásném vyvýšeném místě nad obcí s výhledem do okolní přírody.\nObec Závist se nachází v pohodlné dojezdové vzdálenosti od Brna (20 km), Blanska (14 km) a Kuřimi (10 km).\nV případě zájmu vám rádi zašleme více informací, případně se můžeme potkat na místě při osobní prohlídce.\n_____________________________________________________________________________________\nUvedené výměry jsou orientační. V případě více zájemců bude nemovitost prodána nejlepší nabídce. Majitel si vyhrazuje právo vybrat kupujícího na základě jím zvolených kritérií. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu §1731nebo§1732 občanského zákoníku, ani se nejedná o veřejný příslib dle §1733 občanského zákoníku.",
+   "amen": [],
+   "feats": [],
+   "broker": "Marek Karvaj",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/21569/00-s.webp",
+     "l": "assets/img/n/21569/00-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21569/01-s.webp",
+     "l": "assets/img/n/21569/01-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21569/02-s.webp",
+     "l": "assets/img/n/21569/02-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21569/03-s.webp",
+     "l": "assets/img/n/21569/03-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21569/04-s.webp",
+     "l": "assets/img/n/21569/04-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21569/05-s.webp",
+     "l": "assets/img/n/21569/05-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 21687,
+   "slug": "pronajem-bytu-3-kk-karlin",
+   "title": "Pronájem bytu 3+kk Karlín",
+   "orig": "https://realmarco.cz/nemovitosti/pronajem-bytu-3kk-karlin/",
+   "date": "2026-08-09",
+   "kind": "Pronájem",
+   "cat": "Byty",
+   "price": 44000,
+   "monthly": true,
+   "note": "+ náklady na bydlení + kauce + provize RK",
+   "addr": "Sokolovská 694/102, 186 00 Praha",
+   "area": 88.0,
+   "land": null,
+   "disp": "3+kk",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "88"
+    ],
+    [
+     "Číslo zakázky",
+     "318"
+    ]
+   ],
+   "desc": "Nabízíme k pronájmu elegantní a světlý byt o dispozici 3+kk a celkové ploše 88 m², situovaný v atraktivní lokalitě pražského Karlína v ulici Sokolovská. Byt se nachází v 5. nadzemním podlaží moderního bytového domu s výtahem.\nNemovitost je ve výborném stavu a nabízí komfortní bydlení s promyšlenou dispozicí.\nStředem bytu je prostorný obývací pokoj s výstupem na krásnou slunečnou terasu. Venkovní prostor je příjemným místem pro ranní kávu, brunch, večeři nebo k relaxaci a posezení s rodinou a přáteli.\nModerní kuchyňská linka je vybavena všemi potřebnými spotřebiči – rychlovarná deska, digestoř, lednice, trouba, mikrovlnná trouba.\nByt je dále vybaven krásným vestavěným nábytkem ve vstupní chodbě s velkým úložným prostorem.\nKoupelna je prostorná s vanou, dvojumyvadlem a pračkou. Toaleta je samostatná s dalším menším umyvadlem.\nK bytu dále náleží sklep a garážové stání, které zajišťuje pohodlné parkování přímo v domě.\nVyhledávaná lokalita Karlína nabízí kompletní občanskou vybavenost a skvělou dopravní dostupnost do centra Prahy.\nV bezprostředním okolí naleznete množství kaváren, restaurací, obchodů i zeleně pro volnočasové aktivity.\nByt je ideální volbou pro klienty hledající moderní bydlení v jedné z nejžádanějších pražských čtvrtí.\nPodmínky:\nMěsíční platba: 44.000,- Kč/měsíc (nájemné) + 9.900,- Kč (zálohy za služby)\nKauce: 44.000,- Kč\nProvize RK – 44.000,- Kč\nV případě zájmu nás neváhejte kontaktovat, rádi vám nemovitost ukážeme osobně.\n______________________________________________________\nUvedené výměry jsou orientační. V případě více zájemců bude nemovitost pronajata nejlepší nabídce. Majitel si vyhrazuje právo vybrat nájemce na základě jím zvolených kritérií. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu §1731nebo§1732 občanského zákoníku, ani se nejedná o veřejný příslib dle §1733 občanského zákoníku.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Parkovací místo",
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Stavba: panelová",
+    "Stav objektu: velmi dobrý",
+    "Vlastnictví: osobní",
+    "Lodžie",
+    "5. podlaží",
+    "Sklep",
+    "Vybavení: bez vybavení"
+   ],
+   "broker": "Tamara Hanáková",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/21687/00-s.webp",
+     "l": "assets/img/n/21687/00-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/01-s.webp",
+     "l": "assets/img/n/21687/01-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/02-s.webp",
+     "l": "assets/img/n/21687/02-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/03-s.webp",
+     "l": "assets/img/n/21687/03-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/04-s.webp",
+     "l": "assets/img/n/21687/04-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/05-s.webp",
+     "l": "assets/img/n/21687/05-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/06-s.webp",
+     "l": "assets/img/n/21687/06-l.webp",
+     "w": 2000,
+     "h": 1335,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/07-s.webp",
+     "l": "assets/img/n/21687/07-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/08-s.webp",
+     "l": "assets/img/n/21687/08-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/09-s.webp",
+     "l": "assets/img/n/21687/09-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/10-s.webp",
+     "l": "assets/img/n/21687/10-l.webp",
+     "w": 1333,
+     "h": 2000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/11-s.webp",
+     "l": "assets/img/n/21687/11-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21687/12-s.webp",
+     "l": "assets/img/n/21687/12-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 21711,
+   "slug": "prodej-komercniho-arealu-zdrava-voda-zarosice",
+   "title": "Prodej komerčního areálu Zdravá voda – Žarošice",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-viceuceloveho-objektu-zarosice/",
+   "date": "2026-06-11",
+   "kind": "Prodej",
+   "cat": "Ostatní",
+   "price": null,
+   "monthly": false,
+   "note": "",
+   "addr": "696 34 Uhřice",
+   "area": null,
+   "land": 19082.0,
+   "disp": "",
+   "params": [
+    [
+     "Plocha pozemku m²",
+     "19 082"
+    ],
+    [
+     "Zastavěná plocha m²",
+     "1 600"
+    ],
+    [
+     "Číslo zakázky",
+     "305"
+    ]
+   ],
+   "desc": "Nabízíme ojedinělou příležitost ke koupi komerčního areálu o celkové rozloze 19 082 m2 nacházejícího se v srdci přírodního parku Ždánický les ve Zdravé vodě.\n1/ Víceúčelová stavba – zastavěná plocha 819 m2\n– v budově jsou dvě zrekonstruované bytové jednotky – správcovské byty, které nyní nejsou využívány\n– nová střecha\n– ostatní prostory jsou určeny k rekonstrukci\n– stavba z roku 1998\n2/ Hangár / garáž – zastavěná plocha 863 m2\n– 12 velkokapacitních hangárů\n– nová střecha\nDo budov a celého areálu je zavedena elektřina, zároveň je zde funkční studna s kvalitní pitnou vodou. Splašková voda je odváděna do septiku s výpustí.\nZbytek ploch v areálu tvoří zejména komunikace, manipulační plochy a ostatní plochy.\nDůležité informace:\n– celý areál je nově oplocen – přední část s vjezdovou bránou tvoří gabionová stěna navazující na masivní betonový plot\n– KAMEROVÝ SYSTÉM – nově zaveden po celém obvodu pozemku a vnitřních částí areálu, napojen na pult centrální ochrany\n– do místa je zavedeno INTERNETOVÉ PŘIPOJENÍ\n– SERVEROVNA – vybudována nová ve víceúčelové stavbě\nShrnutí\nPozemek s budovami má široké spektrum využití zejména pro firmy podnikající ve výrobě, skladování případně může sloužit také jako ubytovací kapacita. Lze zde také vystavět reprezentativní sídlo firmy v kombinaci s bydlením / ubytováním. Do objektu je zajištěn příjezd po zpevněné komunikaci (i pro těžší techniku a kamiony). Atraktivní dopravní dostupnost dálnice (D1 i D2), v blízkosti Brna a Hodonína. Dobrá dojezdová vzdálenost na hranice se Slovenskem i Rakouskem.\n______________________________________________________\nUvedené výměry jsou orientační. V případě více zájemců bude nemovitost prodána nejlepší nabídce. Majitel si vyhrazuje právo vybrat kupujícího na základě jím zvolených kritérií. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu §1731nebo§1732 občanského zákoníku, ani se nejedná o veřejný příslib dle §1733 občanského zákoníku.",
+   "amen": [],
+   "feats": [
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Internet",
+    "Energetická náročnost: Třída G - mimořádně nehospodárná"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21711/00-s.webp",
+     "l": "assets/img/n/21711/00-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/01-s.webp",
+     "l": "assets/img/n/21711/01-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/02-s.webp",
+     "l": "assets/img/n/21711/02-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/03-s.webp",
+     "l": "assets/img/n/21711/03-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/04-s.webp",
+     "l": "assets/img/n/21711/04-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/05-s.webp",
+     "l": "assets/img/n/21711/05-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/06-s.webp",
+     "l": "assets/img/n/21711/06-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/07-s.webp",
+     "l": "assets/img/n/21711/07-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/08-s.webp",
+     "l": "assets/img/n/21711/08-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/09-s.webp",
+     "l": "assets/img/n/21711/09-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/10-s.webp",
+     "l": "assets/img/n/21711/10-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21711/11-s.webp",
+     "l": "assets/img/n/21711/11-l.webp",
+     "w": 2400,
+     "h": 1600,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 21305,
+   "slug": "prodej-domu-velke-hosteradky",
+   "title": "Prodej domu Velké Hostěrádky",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-puvodniho-domu-velke-hosteradky/",
+   "date": "2026-01-23",
+   "kind": "Prodej",
+   "cat": "Ostatní",
+   "price": 3180000,
+   "monthly": false,
+   "note": "vč. provize, poplatků a právního servisu",
+   "addr": "691 74 Velké Hostěrádky",
+   "area": null,
+   "land": 487.0,
+   "disp": "",
+   "params": [
+    [
+     "Plocha pozemku m²",
+     "487"
+    ],
+    [
+     "Plocha zahrady m²",
+     "1 180"
+    ],
+    [
+     "Číslo zakázky",
+     "0248"
+    ]
+   ],
+   "desc": "Ke koupi nabízíme původní vesnický dům v centru jihomoravské obce Velké Hostěrádky, která leží v krásné přírodě v blízkosti Ždánického lesa.\nDům je delší dobu neobývaný a je ve špatném technickém stavu. Velmi zajímavou příležitostí je však pozemek, na kterém dům stojí, s výměrou 487 m2 a k němu přilehlou velkou zahradou o výměře 1180 m2.\nElektřina je přivedena do domu. Ostatní inženýrské sítě (voda, plyn a kanalizace) jsou přivedeny na hranici pozemku. V případě výstavby nového objektu je tedy vše připraveno.\nZastavěná plocha je nyní cca 240 m2, k domu patří zemědělské přístavky.\nK zahradě se lze také dostat po zpevněné cestě z druhé strany, nicméně by bylo nutno přemostění potoka mezi cestou a pozemkem.\nObec Velké Hostěrádky leží 26 km jihovýchodně od Brna. Do nejbližších velkých obcí – Klobouky u Brna a Dambořice se autem dostanete v řádu minut. V obci je mateřská škola a pošta Partner. Základní škola je v sousedních Dambořicích.\nMikroregion Hustopečsko je dlouhodobě vyhledávanou lokalitou ke klidnému bydlení v těsném dosahu jihomoravské metropole.\nV případě zájmu nás neváhejte kontaktovat, rádi vám poskytneme všechny potřebné informace.",
+   "amen": [
+    "Obchod"
+   ],
+   "feats": [],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21305/00-s.webp",
+     "l": "assets/img/n/21305/00-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/01-s.webp",
+     "l": "assets/img/n/21305/01-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/02-s.webp",
+     "l": "assets/img/n/21305/02-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/03-s.webp",
+     "l": "assets/img/n/21305/03-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/04-s.webp",
+     "l": "assets/img/n/21305/04-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/05-s.webp",
+     "l": "assets/img/n/21305/05-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/06-s.webp",
+     "l": "assets/img/n/21305/06-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/07-s.webp",
+     "l": "assets/img/n/21305/07-l.webp",
+     "w": 2000,
+     "h": 1332,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/08-s.webp",
+     "l": "assets/img/n/21305/08-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/09-s.webp",
+     "l": "assets/img/n/21305/09-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21305/10-s.webp",
+     "l": "assets/img/n/21305/10-l.webp",
+     "w": 1685,
+     "h": 836,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 21335,
+   "slug": "prodej-chaty-v-herolticich-u-tisnova",
+   "title": "Prodej chaty v Herolticích u Tišnova",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-chaty-v-herolticich/",
+   "date": "2026-01-23",
+   "kind": "Prodej",
+   "cat": "Ostatní",
+   "price": null,
+   "monthly": false,
+   "note": "+ provize RK",
+   "addr": "Heroltice",
+   "area": 40.0,
+   "land": 458.0,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "40"
+    ],
+    [
+     "Plocha pozemku m²",
+     "458"
+    ],
+    [
+     "Číslo zakázky",
+     "0268"
+    ]
+   ],
+   "desc": "K prodeji nabízíme chatu v nádherné rekreační oblasti u obce Heroltice u Tišnova. Chata se nachází v centru chatové oblasti v blízkosti řeky Svratky.\nPředmětem prodeje je chata na vlastním pozemku a dále podíly na pozemcích s přístupovou cestou k chatě a k řece. Pozemky naleznete ve fotogalerii inzerátu, přehledně zaznačené do katastrální mapy.\nChata je postavená na pozemku o celkové výměře 43 m2. Jedná se o dva velké pokoje přístupné z kryté velké terasy. Dům je postaven ve svahu, pod terasou je suterénní místnost, přístupná zvenku a vhodná pro uskladnění dřeva, zahradního nábytku, nářadí, kol apod.\nChata je určená k částečné rekonstrukci. Ve výborném stavu je střecha a jsou zde také vybudována dvě nová komínová tělesa k připojení krbových kamen v každé místnosti zvlášť.\nDo nemovitosti je zavedena elektřina.\nPro více informací kontaktuje makléře, rádi vám nemovitost ukážeme na osobní prohlídce.\nprovize je stanovena dle doporučeného sazebníku služeb České komory Realitních kanceláří a je hrazena kupujícím.\n____________________________________________________________________________________________\nUvedené výměry jsou orientační. V případě více zájemců bude nemovitost prodána nejlepší nabídce. Majitel si vyhrazuje právo vybrat kupujícího na základě jím zvolených kritérií. Veškeré zveřejněné údaje obsažené v tomto inzerátu mají pouze informativní charakter a nejsou nabídkou ve smyslu §1731nebo§1732 občanského zákoníku, ani se nejedná o veřejný příslib dle §1733 občanského zákoníku.",
+   "amen": [],
+   "feats": [
+    "Elektřina 230V",
+    "Sklep"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21335/00-s.webp",
+     "l": "assets/img/n/21335/00-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/01-s.webp",
+     "l": "assets/img/n/21335/01-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/02-s.webp",
+     "l": "assets/img/n/21335/02-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/03-s.webp",
+     "l": "assets/img/n/21335/03-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/04-s.webp",
+     "l": "assets/img/n/21335/04-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/05-s.webp",
+     "l": "assets/img/n/21335/05-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/06-s.webp",
+     "l": "assets/img/n/21335/06-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/07-s.webp",
+     "l": "assets/img/n/21335/07-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/08-s.webp",
+     "l": "assets/img/n/21335/08-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/09-s.webp",
+     "l": "assets/img/n/21335/09-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21335/10-s.webp",
+     "l": "assets/img/n/21335/10-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 20995,
+   "slug": "prodej-bytu-3-kk-64-m2-v-bratislave",
+   "title": "Prodej bytu 3+kk 64 m² v Bratislavě",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-bytu-3kk-64-m%c2%b2-v-bratislave/",
+   "date": "2026-01-22",
+   "kind": "Prodej",
+   "cat": "Byty",
+   "price": 7800000,
+   "monthly": false,
+   "note": "včetně provize, včetně poplatků, včetně právního servisu",
+   "addr": "Justičná, 811 07 Bratislava, Slovensko",
+   "area": 64.0,
+   "land": null,
+   "disp": "3+kk",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "64"
+    ]
+   ],
+   "desc": "Nabízíme ke koupi třípokojový byt / kancelář s výměrou 64 m\n2\nv klidné ulici Justičná v Bratislavě. Byt je ve zvýšeném přízemí cihlového domu a má jiho-západní orientaci. Okna jsou vybavena venkovními bezpečnostními mřížemi.\nJednotka v současné době slouží jako advokátní kancelář a tomu je uzpůsobená i celková dispozice.\nKancelář – dispozice a vybavení:\nTři separátní místnosti vybavené kancelářským nábytkem, malá kuchyňka se zázemím, oddělená toaleta, sprchový kout a serverovna. Výměry jednotlivých místností jsou na přiloženém 3D plánku. Na fotografiích i plánku je zaznamenán skutečný aktuální stav.\nByt:\nV případě, že by se noví majitelé rozhodli tuto nemovitost užívat jako byt, je nutné prostor rekolaudovat. Z jednotky lze udělat třípokojový byt s kuchyňským koutem, případně se vrátit k původní dispozici se dvěma prostornými pokoji a kuchyní.\nBytový dům z roku 1949 se nachází v městské části Bratislava – Staré Město. V suterénu domu se nachází společný prostor, který je v současnosti využíván jako antikvariát. Vstupní schodiště je rozděleno bezpečnostní mříží, takže zákazníci antikvariátu nemají do domu přístup (separátní vchod). K domu patří otevřený vnitroblok s udržovaným parkem, lavičkami a dětským hřištěm.\nDůležitá fakta:\nv roce 2022 – 2023 proběhla rekonstrukce plynových rozvodů. Montáž poměrových měřičů tepla, regulace ústředního topení a výměna dešťových svodů\ndalší plánované rekonstrukce – zateplení obvodového pláště vč. obnovy balkónů, zateplení střechy a stropů ve sklepě, rekonstrukce interiéru domu a vstupních dveří s otvíráním na čipy a novy DZ\ndům / bytové jednotky nejsou zatíženy žádným společným úvěrem\npříjem z pronájmu suterénních prostor je vkládán do fondu oprav, současný stav FO je cca\nLokalita se vyznačuje svým klidem a pokojnou atmosférou s dobrou dostupností centra města. Ulice Justičná je blízko historického centra Starého města Bratislavy, což z něj činí atraktivní místo k bydlení nebo podnikání. Občanská vybavenost lokality je na vysoké úrovni. V pěší dostupnosti jsou obchody, služby, parky a sportoviště.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Stavba: cihlová",
+    "Vlastnictví: osobní",
+    "1. podlaží"
+   ],
+   "broker": "Tamara Hanáková",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/20995/00-s.webp",
+     "l": "assets/img/n/20995/00-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/01-s.webp",
+     "l": "assets/img/n/20995/01-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/02-s.webp",
+     "l": "assets/img/n/20995/02-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/03-s.webp",
+     "l": "assets/img/n/20995/03-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/04-s.webp",
+     "l": "assets/img/n/20995/04-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/05-s.webp",
+     "l": "assets/img/n/20995/05-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/06-s.webp",
+     "l": "assets/img/n/20995/06-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/07-s.webp",
+     "l": "assets/img/n/20995/07-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/08-s.webp",
+     "l": "assets/img/n/20995/08-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/09-s.webp",
+     "l": "assets/img/n/20995/09-l.webp",
+     "w": 1333,
+     "h": 2000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/10-s.webp",
+     "l": "assets/img/n/20995/10-l.webp",
+     "w": 1333,
+     "h": 2000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/11-s.webp",
+     "l": "assets/img/n/20995/11-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/12-s.webp",
+     "l": "assets/img/n/20995/12-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20995/13-s.webp",
+     "l": "assets/img/n/20995/13-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 21012,
+   "slug": "vinarstvi-sedlec-u-mikulova-prodej",
+   "title": "Vinařství Sedlec u Mikulova – prodej",
+   "orig": "https://realmarco.cz/nemovitosti/vinarstvi-sedlec-u-mikulova-prodej/",
+   "date": "2025-06-18",
+   "kind": "Prodej",
+   "cat": "Ostatní",
+   "price": 6490000,
+   "monthly": false,
+   "note": "",
+   "addr": "691 21 Sedlec",
+   "area": 209.0,
+   "land": 1258.0,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "209"
+    ],
+    [
+     "Plocha pozemku m²",
+     "1 258"
+    ],
+    [
+     "Číslo zakázky",
+     "00212"
+    ]
+   ],
+   "desc": "K prodeji nabízíme vinné sklepy, zahrady a nový rekreační domeček s veškerým hygienickým zázemím určený i k pronajímání v obci Sedlec. Celková rozloha pozemku činí 1 258 m2, užitná plocha sklepů je 209 m2.\nK dispozici jsou dva krásně zrekonstruované sklepy, ihned připraveny do vinařského provozu. Další dva sklepy jsou prozatím určeny pouze pro skladování vína, zeleniny, materiálu apod. Jejich rekonstrukcí lze dosáhnout až dvojnásobného rozšíření kapacity vinařství.\nPozemky nad sklepy nyní slouží jako zahrada a místo k relaxaci a je z nich nádherný výhled na krásy Jižní Moravy. Ke sklepní uličce vede z centra obce zpevněná komunikace.\nNově zbudovaný rekreační domek nabízí pokoj s kapacitou pro 2 osoby a zázemí. Relaxoval lze na terase s krásným výhledem do okolí. Vhodné na krátkodobé dovolené, cykloturistiku, nebo turistiku spojenou s provozem vinařství.\nNabídka této nemovitosti je určena pro milovníky vína a atmosféry starých sklepů, kteří hledají prostor pro své podnikání, koníčky nebo odpočinek spojený s fyzickou prací.\nSedlec je na hranici Lednicko-valtického areálu, jedné z turisticky nejvyhledávanějších UNESCO památek na Moravě s výborným turistickým potenciálem. V případě zájmu nás prosím kontaktujte, sdělíme vám detailnější informace na osobní prohlídce.",
+   "amen": [
+    "Obchod"
+   ],
+   "feats": [
+    "Vybavení: s vybavením"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/21012/00-s.webp",
+     "l": "assets/img/n/21012/00-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/01-s.webp",
+     "l": "assets/img/n/21012/01-l.webp",
+     "w": 1500,
+     "h": 1120,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/02-s.webp",
+     "l": "assets/img/n/21012/02-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/03-s.webp",
+     "l": "assets/img/n/21012/03-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/04-s.webp",
+     "l": "assets/img/n/21012/04-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/05-s.webp",
+     "l": "assets/img/n/21012/05-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/06-s.webp",
+     "l": "assets/img/n/21012/06-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/07-s.webp",
+     "l": "assets/img/n/21012/07-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/08-s.webp",
+     "l": "assets/img/n/21012/08-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/09-s.webp",
+     "l": "assets/img/n/21012/09-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/21012/10-s.webp",
+     "l": "assets/img/n/21012/10-l.webp",
+     "w": 1500,
+     "h": 1000,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 20953,
+   "slug": "luxusni-chata-na-prodej-ochoz",
+   "title": "Luxusní chata na prodej – Ochoz",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-chata-moravsky-kras/",
+   "date": "2025-05-18",
+   "kind": "Prodej",
+   "cat": "Ostatní",
+   "price": 4999000,
+   "monthly": false,
+   "note": "",
+   "addr": "664 02 Ochoz u Brna",
+   "area": 55.0,
+   "land": 163.0,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "55"
+    ],
+    [
+     "Plocha pozemku m²",
+     "163"
+    ],
+    [
+     "Sklep m²",
+     "7"
+    ],
+    [
+     "Zastavěná plocha m²",
+     "40"
+    ],
+    [
+     "Číslo zakázky",
+     "00209"
+    ]
+   ],
+   "desc": "Ve výhradním zastoupení pana majitele vám nabízíme ke koupi vysoce komfortní celosezónně obyvatelnou chatu v romantickém zákoutí chatové oblasti Kaničky (Ochoz u Brna).\n______________________________________________________________\nChata\nDřevostavba prošla v roce 2020 celkovou velkou rekonstrukcí. Současný vlastník chatu dále vybavil špičkovým vybavením a technologiemi, které z ní učinili komfortní nemovitost.\nDispozice je 2+kk s výměrou cca 33 m2.\nDominantou obývacího prostoru je velkoformátové okno s výhledem do přírody a výstupem na jižně orientovanou terasu. Jsou zde umístěna krbová kamna a klimatizace. Součástí prodeje je také rohová kožená sedačka a televize Loewe. Kuchyňský kout je vybaven myčkou a lednicí s mrazákem značky Miele a sklokeramickou varnou deskou Electrolux.\nLožnice je vybavena dvojlůžkem a závěsnými úložnými skříňkami.\nV koupelně je velký sprchový kout a skříňka pod umyvadlem. Zároveň je zde místo na pračku. Topný žebřík zajistí lepší tepelný komfort v chladnějších dnech.\nVyvýšená terasa s dřevěnou podlahou je téměř na úrovni korun stromů, které ji částečně zastiňují. Od přístupové cesty je oddělena efektní dřevěnou příčkou zajištující soukromí. Pod domem je menší sklep k umístění nářadí nebo málo používaných věcí.\n_______________________________________________________________\nDalší vychytávky\n– studna s přečerpávací nádrží na 5 tisíc litrů (pitná voda)\n– jímka s čističkou\n– vlastní sdílená parkovací stání přímo pod chatou\n_______________________________________________________________\nBezpečí především\nChata je vybavena zabezpečovacím systémem připojeným k pultu centrální ochrany. Odemykání a zamykání lze ovládat dálkově pomocí aplikace chytrá domácnost. Okna jsou neprůstřelná a potažená speciální UV fólií. Do chaty není zvenku vidět. Vstupní dveře jsou bezpečnostní.\n_______________________________________________________________\nOkolí\nChatová oblast se nachází v katastru obce Ochoz u Brna a je zasazená do malebné krajiny Moravského krasu. Okolí nabízí nepřeberné množství možností trávení volného času a krásnou přírodu. Koupat se můžete v nedaleké požární nádrži, v zatopeném kaolínovém lomu nebo rybníku u Křtin, které jsou poutním významným poutním místem. Cyklovýlety do okolí, zahradničení nebo houbaření vám splní představy o aktivně stráveném volném čase.\nV případě zájmu o prohlídku kontaktujte makléře, rádi vám vše ukážeme na osobní prohlídce.",
+   "amen": [
+    "Obchod"
+   ],
+   "feats": [
+    "Parkovací místo",
+    "Typ domu: přízemní",
+    "Poloha domu: samostatný",
+    "Vlastnictví: osobní",
+    "Sklep",
+    "Vybavení: s vybavením"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/20953/00-s.webp",
+     "l": "assets/img/n/20953/00-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/01-s.webp",
+     "l": "assets/img/n/20953/01-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/02-s.webp",
+     "l": "assets/img/n/20953/02-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/03-s.webp",
+     "l": "assets/img/n/20953/03-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/04-s.webp",
+     "l": "assets/img/n/20953/04-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/05-s.webp",
+     "l": "assets/img/n/20953/05-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/06-s.webp",
+     "l": "assets/img/n/20953/06-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/07-s.webp",
+     "l": "assets/img/n/20953/07-l.webp",
+     "w": 1170,
+     "h": 658,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/08-s.webp",
+     "l": "assets/img/n/20953/08-l.webp",
+     "w": 1170,
+     "h": 780,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20953/09-s.webp",
+     "l": "assets/img/n/20953/09-l.webp",
+     "w": 1170,
+     "h": 658,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 20779,
+   "slug": "prodej-stavebni-parcely-boskovice",
+   "title": "Prodej stavební parcely Boskovice",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-stavebniho-pozemku-boskovice-617-m%c2%b2/",
+   "date": "2025-04-01",
+   "kind": "Prodej",
+   "cat": "Pozemky",
+   "price": 3085000,
+   "monthly": false,
+   "note": "",
+   "addr": "Podlesí, 680 01 Boskovice",
+   "area": null,
+   "land": 619.0,
+   "disp": "",
+   "params": [
+    [
+     "Plocha pozemku m²",
+     "619"
+    ],
+    [
+     "Cena za m²",
+     "5 000 Kč"
+    ]
+   ],
+   "desc": "S výhradním zastoupením majitele prodáváme stavební parcelu v v Boskovicích v nově vzniklé lokalitě Pod Vodárnou. Všechny pozemky a informace naleznete na projektových webových stránkách\nwww.podvodarnou.cz\nPozemek o výměře 617 m2 má sítě (elektřina, kanalizace, voda) přivedené na hranici pozemku. Součástí ceny je také vybudování asfaltové příjezdové komunikace  a veřejného osvětlení.\nPozemek je jedním z 28 stavebních pozemků nově zbudovaných v lokalitě Pod Vodárnou v Boskovicích. Výměry jednotlivých parcel se pohybují od 500 m\n2\ndo 700 m\n2\ns mírnou svažitostí a jsou určených pro výstavbu samostatných nebo řadových rodinných domů.\nV územním plánu jsou řešené parcely v návrhové ploše pro bydlení Br, v lokalitě Z8, na kterou je zpracována územní studie, dostupná mimo jiné na webových stránkách města Boskovice:\nÚzemní studie Obytný soubor v lokalitě u vodárny v Újezdu u Boskovic: Boskovice\nV územní studii jsou veškeré potřebné informace, např. o podmínkách prostorového uspořádání, parcelaci, maximální zastavěnosti, parkování apod.\nV případě zájmu vám rádi osobně ukážeme i další pozemky na prodej. Kontaktujete nás.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "TOP nabídka"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/20779/00-s.webp",
+     "l": "assets/img/n/20779/00-l.webp",
+     "w": 1000,
+     "h": 563,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20779/01-s.webp",
+     "l": "assets/img/n/20779/01-l.webp",
+     "w": 1000,
+     "h": 563,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20779/02-s.webp",
+     "l": "assets/img/n/20779/02-l.webp",
+     "w": 1000,
+     "h": 666,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20779/03-s.webp",
+     "l": "assets/img/n/20779/03-l.webp",
+     "w": 1000,
+     "h": 666,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 20577,
+   "slug": "prodej-rodinneho-domu-5-1-napajedla",
+   "title": "Prodej rodinného domu 5+1 Napajedla",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-rodinneho-domu-5-1-napajedla/",
+   "date": "2025-01-26",
+   "kind": "Prodej",
+   "cat": "Rodinné domy",
+   "price": 7500000,
+   "monthly": false,
+   "note": "",
+   "addr": "Komenského, 763 61 Napajedla",
+   "area": 142.0,
+   "land": 411.0,
+   "disp": "5+1",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "142"
+    ],
+    [
+     "Plocha pozemku m²",
+     "411"
+    ],
+    [
+     "Lodžie m²",
+     "10"
+    ],
+    [
+     "Plocha zahrady m²",
+     "285"
+    ],
+    [
+     "Číslo zakázky",
+     "0120"
+    ]
+   ],
+   "desc": "S výhradním zastoupením majitele nabízíme ke koupi městský řadový dům v obci Napajedla, který prošel v roce 1996 rozsáhlejší rekonstrukcí, jejíž součástí byla také nástavba nadzemního podlaží a změna fasády směrem do zahrady. Z uličního pohledu je stále zachována krásná původní podoba domu.\nPozemek za domem je přístupný průjezdem, kde je možné parkovat také auto. Další parkování je možné přímo před domem.\nDvoupatrový objekt má dispozici 5+1 s rovinatou soukromou zahradou. V zahradě je také vybudovaný sklep na zeleninu, případně na uskladnění zahradní techniky atd.\nPřízemí domu má zádveří s technickou místností, pokoj pro hosty / pracovnu s orientací do ulice, kuchyni a velký obývací pokoj s výhledem do zahrady, krbem a točitým schodištěm do prvního obytného patra. Zde jsou tři samostatné pokoje se střešními okny, místo na zřízení zimní zahrady a výstup na terasu s krásným výhledem na Masarykovo náměstí v centru Napajedel a na zahradu.\nObě patra mají vlastní toaletu a koupelnu.\nNa střeše domu jsou umístěny fotovoltaické panely s platnou dlouhodobou výkupní smlouvou s možností úplatného převodu na nové majitele.\nDům se nachází v klidné ulici v centru obce, doslova kousek od základní a mateřské školy, obchodů a kulturních institucí ve městě. Na zastávku autobusu se dostanete po pár minutách pěší chůze.\nDům je vhodný pro každého, kdo chce získat krásné pohodlné bydlení v samém srdci Napajedel s možností částečného přizpůsobení si domu svému vlastnímu vkusu dodatečnou rekonstrukcí.\nV případě zájmu o prohlídku nás neváhejte kontaktovat, rádi vám nemovitost ukážeme.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [
+    "Parkovací místo",
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Poloha domu: řadový",
+    "Stavba: cihlová",
+    "Stav objektu: před rekonstrukcí",
+    "Vlastnictví: osobní",
+    "Plyn"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [
+    "Doporučujeme"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/20577/00-s.webp",
+     "l": "assets/img/n/20577/00-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/01-s.webp",
+     "l": "assets/img/n/20577/01-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/02-s.webp",
+     "l": "assets/img/n/20577/02-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/03-s.webp",
+     "l": "assets/img/n/20577/03-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/04-s.webp",
+     "l": "assets/img/n/20577/04-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/05-s.webp",
+     "l": "assets/img/n/20577/05-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/06-s.webp",
+     "l": "assets/img/n/20577/06-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/07-s.webp",
+     "l": "assets/img/n/20577/07-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/08-s.webp",
+     "l": "assets/img/n/20577/08-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/20577/09-s.webp",
+     "l": "assets/img/n/20577/09-l.webp",
+     "w": 2000,
+     "h": 1333,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 18644,
+   "slug": "prodej-rodinneho-domu-300-m2-pozemek-378-m2-luhacovice",
+   "title": "Prodej rodinného domu 300 m², pozemek 378 m² Luhačovice",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-rodinneho-domu-300-luhacovice/",
+   "date": "2024-04-01",
+   "kind": "Prodej",
+   "cat": "Rodinné domy",
+   "price": 10000000,
+   "monthly": false,
+   "note": "včetně DPH, včetně poplatků, včetně provize, včetně právního servisu, cena k jednání",
+   "addr": "763 26 Luhačovice",
+   "area": 300.0,
+   "land": 378.0,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "300"
+    ],
+    [
+     "Plocha pozemku m²",
+     "378"
+    ],
+    [
+     "Sklep m²",
+     "40"
+    ],
+    [
+     "Plocha zahrady m²",
+     "246"
+    ],
+    [
+     "Zastavěná plocha m²",
+     "132"
+    ],
+    [
+     "Číslo zakázky",
+     "00061"
+    ]
+   ],
+   "desc": "Nemusíte být milovníkem architektury, aby jste znali jméno Bohuslava Fuchse – významného architekta funkcionalismu. Vila Sáva je jednou z jeho slavných a často publikovaných realizací. Nabídka je určena milovníkům krásné architektury, čistých linií a prosluněných prostorů. Ačkoli jde o významnou kulturní nemovitost, vila není památkově chráněná.\nUmístění stavby v obytné zástavbě cca 300 m od centra umožňuje být v centru dění a přesto v nerušeném klidu. Dům má 3 podlaží a současná dispozice nabízí dva samostatné byty 3+1, 2 pokoje se společným zázemím a příruční prostory.\nPřízemí:\nVstupme do domu původními dvoukřídlými dveřmi, kde nás uvítá hala (17,4 m2) zakončená schodištěm. Vlevo ode dveří je pokoj (18,5 m2) s kuchyňským koutem a sprchovým koutem. Dále zázemí: (3,6 m2) s kuch. koutem, sprch. koutem, WC a umyvadlem. Následuje vstup do trojice místností: skladový prostor (9,0 m2), místo s kotlem (3,5 m2) a původní prádelna (10 m2). Vpravo od vstupních dveří je druhý pokoj (9,7 m2), WC (2 m2) a vstup do tech. přístavby (9,6 m2). Celková plocha podlaží je 101 m2.\n1.NP:\nDo bytu vstoupíme krásnými dvoukřídlými dveřmi. Už v předsíni (9,6 m2) nás uvítá pocit prostoru a volnosti. První vlevo je WC (2 m2) s kulatým okénkem, tak typickým pro stavby arch. Fuchse. Dále vlevo vejdeme do pokoje (7,8 m2). Proti vstupu je ložnice (17,2 m2) s okny po celé čelní stěně a krásnou ukázkou původních vestavěných skříní. Prostorný a slunný obývací pokoj (27,4 m2) opět zdobí okna po celé jeho šíři. Kuchyň (12,6 m2) nabízí možnost vstoupit na balkon (5,3 m2), který je uzavřený skleněnými okny. Z kuchyně se vstupuje do koupelny (6,1 m2) s velkým oknem a vedle do spíže (2,6 m2) nebo budoucího vinného sklípku? Ve všech pokojích i kuchyni, jsou původní vestavěné skříně. Celková plocha podlaží je 100 m2. Byt byl donedávna obýván.\n2.NP:\nNa schodišti do prvního patra Vás okouzlí mimořádně krásný architektonický prvek ve tvaru oblouku. Vstupme do předsíně (10,3 m2), kde jsou opět vestavěné skříně. Vlevo od vstupu je WC (2 m2), vedle pak komora (2,2 m2) a koupelna (5,3 m2) prosvětlená oknem. Vpravo od vstupních dveří je pokoj (12,2 m2). Následuje kuchyň (10 m2) s jídelním koutem a vstupem na balkon (5,3 m2), který láká k posezení s kávou nebo sklenkou vína. Jako poslední vpravo jsou dveře do obývacího pokoje (29 m2), kterému vévodí stěna plná oken, s překrásným výhledem na protější svah s vilovou čtvrtí. Z obývacího pokoje se vchází do ložnice (17,4 m2) opět se stěnou tvořenou okny. Celková plocha podlaží je 100 m2. Tento byt je trvale obýván.\nPodlahy: obytné místnosti parkety, v užitných místnostech Teraco. Vytápění: 1.NP – plynový kotel, 2.NP – plyn. topidla WAW. Orientace: dům čelně JV. Vizualizace 3D je návrhem nového interiéru, nepřesnosti vyhrazeny.\nStav domu – dům je v původním stavu, ale trvale velmi dobře udržován, je plně obyvatelný.\nK dispozici jsou i původní stavební plány. arch. Bohuslava Fuchse. Vážným zájemcům rádi sdělíme další informace.",
+   "amen": [],
+   "feats": [
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Poloha domu: samostatný",
+    "Stavba: cihlová",
+    "Stav objektu: dobrý",
+    "Topení: plynové",
+    "Plyn",
+    "Energetická náročnost: Třída G - mimořádně nehospodárná"
+   ],
+   "broker": "Alexandra Rumíšková",
+   "badges": [
+    "TOP nabídka"
+   ],
+   "imgs": [
+    {
+     "s": "assets/img/n/18644/00-s.webp",
+     "l": "assets/img/n/18644/00-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/01-s.webp",
+     "l": "assets/img/n/18644/01-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/02-s.webp",
+     "l": "assets/img/n/18644/02-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/03-s.webp",
+     "l": "assets/img/n/18644/03-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/04-s.webp",
+     "l": "assets/img/n/18644/04-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/05-s.webp",
+     "l": "assets/img/n/18644/05-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/06-s.webp",
+     "l": "assets/img/n/18644/06-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/07-s.webp",
+     "l": "assets/img/n/18644/07-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/08-s.webp",
+     "l": "assets/img/n/18644/08-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/09-s.webp",
+     "l": "assets/img/n/18644/09-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/10-s.webp",
+     "l": "assets/img/n/18644/10-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/11-s.webp",
+     "l": "assets/img/n/18644/11-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/12-s.webp",
+     "l": "assets/img/n/18644/12-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18644/13-s.webp",
+     "l": "assets/img/n/18644/13-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 19720,
+   "slug": "prodej-rodinneho-domu-125-m2-pozemek-612-m2-v-obci-divaky",
+   "title": "Prodej rodinného domu 125 m², pozemek 612 m² v obci Diváky",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-rodinneho-domu-125m-pozemek-612m-divaky/",
+   "date": "2024-03-28",
+   "kind": "Prodej",
+   "cat": "Rodinné domy",
+   "price": null,
+   "monthly": false,
+   "note": "info v RK",
+   "addr": "691 71 Diváky",
+   "area": 125.0,
+   "land": 612.0,
+   "disp": "2+1",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "125"
+    ],
+    [
+     "Plocha pozemku m²",
+     "612"
+    ],
+    [
+     "Číslo zakázky",
+     "00074"
+    ]
+   ],
+   "desc": "Ve výhradním zastoupení majitele Vám nabízíme k prodeji přízemní rodinný dům o dispozici 2+1 se zahradou v obci Diváky, okres Břeclav.\nNemovitost je určena ke kompletní rekonstrukci včetně střechy, rozvodů IS, podlah a oken či případné demolici a výstavbě nového domu. V tuto chvíli je na stavebním úřadě podaná žádost o rekonstrukci domu s vypracovaným projektem.\nCelková plocha pozemku je 612 m2, zastavěné plochy 218 m2, dvůr a zahrada mají celkem 394 m2. Uliční šíře domu je 19,6 m. Dům má zavedenou přípojku elektřiny, přípojky vody a plynu jsou připraveny u domu, napojení na kanalizaci je možné v chodníku před domem. Dům má vlastní studnu ve dvoře. Osobní či nákladní auto můžete pohodlně zaparkovat v průjezdu či ve dvoře domu, kam se dostanete z ulice dřevěnými vraty o rozměrech 2,84m/2,91m.\nKe dveřím domu projdete malou oplocenou předzahrádkou. Po vstupu do chodby domu se vpravo nachází pokoj 20,6 m2, vlevo projdete do kuchyně 17,1 m2. Z kuchyně je vstup do koupelny 3,66 m2 či rovně projdete do ložnice 20,6 m2. Rovně chodbou projdete až na prostornou prosklenou verandu 23 m2 s výhledem do dvora. Vpravo se odtud dostanete dveřmi do průjezdu, vlevo se nachází zastavěné křídlo domu s 3 tech. místnostmi, které spojuje zastřešená prosklená chodba. První místnost 12,2 m2 se zřejmě, využívala ke zpracování zabíjaček, ve druhé místnosti 7,4 m2 je umístěn původní plynový kotel, třetí místnost 13 m2 sloužila jako sklad, na konci chodby je umístěno samostatné WC 1,5 m2. Odtud dveřmi projdete na dvůr, kde ještě pokračuje dům chlévem 12,6 m2. Ve dvoře domu se nachází prostorná zastřešená kůlna s udírnou.\nObec Diváky se rozkládá se v hlubokém úvalu Ždánického lesa – údolím obklopeném ze všech stran kopci a lesy. Svahy kopců pokryté poli a vinohrady tvoří spolu s listnatými lesy malebný prstenec kolem vesnice. Obec je známa jako bydliště bratří Mrštíků.\nObčané obce mají k dispozici tzv. víceúčelovou budovu – Telecom, pošta, ordinace praktického lékaře, kadeřnictví, hasičská zbrojnice a základní školu. Obec je celkově plynofikována a většina domácností je napojena na vodovod i na veřejnou kanalizaci. O kulturní a společenský život se stará obecní úřad společně s místními spolky a organizacemi. Pravidelně přístupná je veřejná obecní knihovna vybavená počítači. V obci žije 511 obyvatel. Obec Diváky je vzdálena 30 min od Brna (35km) a 9km od nájezdu na dálnici D2 v Hustopečích.",
+   "amen": [],
+   "feats": [
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: přízemní",
+    "Poloha domu: řadový",
+    "Stavba: cihlová",
+    "Stav objektu: před rekonstrukcí",
+    "Plyn",
+    "Vybavení: bez vybavení",
+    "Energetická náročnost: Třída G - mimořádně nehospodárná"
+   ],
+   "broker": "Dušan Valach",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/19720/00-s.webp",
+     "l": "assets/img/n/19720/00-l.webp",
+     "w": 1920,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/01-s.webp",
+     "l": "assets/img/n/19720/01-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/02-s.webp",
+     "l": "assets/img/n/19720/02-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/03-s.webp",
+     "l": "assets/img/n/19720/03-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/04-s.webp",
+     "l": "assets/img/n/19720/04-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/05-s.webp",
+     "l": "assets/img/n/19720/05-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/06-s.webp",
+     "l": "assets/img/n/19720/06-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/07-s.webp",
+     "l": "assets/img/n/19720/07-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/08-s.webp",
+     "l": "assets/img/n/19720/08-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/09-s.webp",
+     "l": "assets/img/n/19720/09-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/10-s.webp",
+     "l": "assets/img/n/19720/10-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/11-s.webp",
+     "l": "assets/img/n/19720/11-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/12-s.webp",
+     "l": "assets/img/n/19720/12-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/19720/13-s.webp",
+     "l": "assets/img/n/19720/13-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 18801,
+   "slug": "pronajem-rodinneho-domu-179-m2-pozemek-186-m2-brno",
+   "title": "Pronájem rodinného domu 179 m², pozemek 186 m² Brno",
+   "orig": "https://realmarco.cz/nemovitosti/pronajem-rodinneho-domu-179-brno-turany/",
+   "date": "2024-02-28",
+   "kind": "Pronájem",
+   "cat": "Rodinné domy",
+   "price": 46000,
+   "monthly": true,
+   "note": "+ zálohy za služby + kauce + provize",
+   "addr": "Letiště Brno-Tuřany 904/1, 627 00 Brno",
+   "area": 179.0,
+   "land": 186.0,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "179"
+    ],
+    [
+     "Plocha pozemku m²",
+     "186"
+    ],
+    [
+     "Číslo zakázky",
+     "00071"
+    ]
+   ],
+   "desc": "K pronájmu vám nabízíme komerční objekt nebo jeho část s vlastním parkováním v Brně Tuřanech.\nObjekt je dvoupodlažní o celkové podlahové ploše 179 m2. Přímo před domem jsou parkovací stání na vlastním pozemku.\nV prvním podlaží jsou hned za vstupem dva samostatně uzamykatelné komerční prostory orientované do ulice, které lze využít k pronájmu pro různé druhy provozoven, prodejen, showroom nebo kanceláře s parkováním.\nV zadní části tohoto podlaží jsou další tři propojené místnosti o velikostech 11 m2, 19 m2 a 7 m2, hygienické zázemí a technické zázemí.\nVe druhém podlaží je dalších pět samostatných místností s rozměry 13 m2, 12 m2, 16,5 m2, 15,5 m2 a 7 m2.\nObjekt je vytápěn plynovým kotlem a v jednotlivých místnostech jsou klimatizační jednotky.\nVelkou výhodou této nemovitosti je vlastní parkování přímo před objektem pro 3-4 osobní automobily.\nOzvěte se nám, rádi vás uvidíme na prohlídce.",
+   "amen": [],
+   "feats": [
+    "Parkovací místo",
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Poloha domu: řadový",
+    "Stavba: cihlová",
+    "Stav objektu: dobrý",
+    "Plyn",
+    "Energetická náročnost: Třída G - mimořádně nehospodárná"
+   ],
+   "broker": "Tamara Hanáková",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/18801/00-s.webp",
+     "l": "assets/img/n/18801/00-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/01-s.webp",
+     "l": "assets/img/n/18801/01-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/02-s.webp",
+     "l": "assets/img/n/18801/02-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/03-s.webp",
+     "l": "assets/img/n/18801/03-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/04-s.webp",
+     "l": "assets/img/n/18801/04-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/05-s.webp",
+     "l": "assets/img/n/18801/05-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/06-s.webp",
+     "l": "assets/img/n/18801/06-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/07-s.webp",
+     "l": "assets/img/n/18801/07-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/08-s.webp",
+     "l": "assets/img/n/18801/08-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/09-s.webp",
+     "l": "assets/img/n/18801/09-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/10-s.webp",
+     "l": "assets/img/n/18801/10-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/11-s.webp",
+     "l": "assets/img/n/18801/11-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/12-s.webp",
+     "l": "assets/img/n/18801/12-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18801/13-s.webp",
+     "l": "assets/img/n/18801/13-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 18567,
+   "slug": "prodej-vicegeneracniho-domu-179-m2-pozemek-186-m2",
+   "title": "Prodej vícegeneračního domu 179 m², pozemek 186 m²",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-vicegeneracniho-domu-179-brno-turany/",
+   "date": "2024-02-28",
+   "kind": "Prodej",
+   "cat": "Rodinné domy",
+   "price": 12560000,
+   "monthly": false,
+   "note": "",
+   "addr": "Malínská, 620 00 Brno",
+   "area": 179.0,
+   "land": 186.0,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "179"
+    ],
+    [
+     "Plocha pozemku m²",
+     "186"
+    ],
+    [
+     "Číslo zakázky",
+     "00066"
+    ]
+   ],
+   "desc": "Nabízíme zajímavou příležitost koupě rozsáhlé nemovitosti v klidné části brněnských Tuřan.\nDvoupodlažní dům s užitnou plochou 179 m2 je určen k rekonstrukci. Nyní je zkolaudován jako stavba pro administrativu. V případě rekonstrukce za účelem bydlení by byla nutná rekolaudace. K nemovitosti náleží parkovací místa před domem na vlastním pozemku.\nPůvodně tento objekt soužil jako firemní sídlo. V přízemí jsou dva separátní obchodní prostory, které mohou i po rekonstrukci sloužit k pronájmu. V zadní části tohoto podlaží jsou další tři propojené místnosti o velikostech 11 m2, 19 m2 a 7 m2, hygienické zázemí a technické zázemí.\nVe druhém podlaží je dalších pět samostatných místností s rozměry 13 m2, 12 m2, 16,5 m2, 15,5 m2 a 7 m2.\nObjekt je vytápěn plynovým kotlem a v jednotlivých místnostech jsou klimatizační jednotky.\nTuřany jsou rychle se rozvíjející lokalitou na okraji Brna s výbornou dostupností velkého městského okruhu a dálničních tahů okolo města. Zároveň je to však klidné místo s plnou občanskou vybaveností a rychlou dosažitelností centra města.\nRádi vám dům ukážeme na osobní prohlídce i s technickou dokumentací. Těšíme se na vás.",
+   "amen": [],
+   "feats": [
+    "Parkovací místo",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Poloha domu: řadový",
+    "Stavba: cihlová",
+    "Stav objektu: dobrý",
+    "Topení: plynové",
+    "Energetická náročnost: Třída G - mimořádně nehospodárná"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/18567/00-s.webp",
+     "l": "assets/img/n/18567/00-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/01-s.webp",
+     "l": "assets/img/n/18567/01-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/02-s.webp",
+     "l": "assets/img/n/18567/02-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/03-s.webp",
+     "l": "assets/img/n/18567/03-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/04-s.webp",
+     "l": "assets/img/n/18567/04-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/05-s.webp",
+     "l": "assets/img/n/18567/05-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/06-s.webp",
+     "l": "assets/img/n/18567/06-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/07-s.webp",
+     "l": "assets/img/n/18567/07-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/08-s.webp",
+     "l": "assets/img/n/18567/08-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/09-s.webp",
+     "l": "assets/img/n/18567/09-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/10-s.webp",
+     "l": "assets/img/n/18567/10-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/11-s.webp",
+     "l": "assets/img/n/18567/11-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/12-s.webp",
+     "l": "assets/img/n/18567/12-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18567/13-s.webp",
+     "l": "assets/img/n/18567/13-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 18592,
+   "slug": "pronajem-kancelare-179-m2-brno-turany",
+   "title": "Pronájem kanceláře 179 m² Brno-Tuřany",
+   "orig": "https://realmarco.cz/nemovitosti/pronajem-kancelare-179-brno-turany/",
+   "date": "2024-02-28",
+   "kind": "Pronájem",
+   "cat": "Komerční prostory",
+   "price": 46000,
+   "monthly": true,
+   "note": "+ zálohy za služby + kauce + provize",
+   "addr": "Letiště Brno-Tuřany 904/1, 627 00 Šlapanice",
+   "area": 179.0,
+   "land": null,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "179"
+    ],
+    [
+     "Číslo zakázky",
+     "00065"
+    ]
+   ],
+   "desc": "K pronájmu vám nabízíme komerční objekt nebo jeho část s vlastním parkováním v Brně Tuřanech.\nObjekt je dvoupodlažní o celkové podlahové ploše 179 m2. Přímo před domem jsou parkovací stání na vlastním pozemku.\nV prvním podlaží jsou hned za vstupem dva samostatně uzamykatelné komerční prostory orientované do ulice, které lze využít k pronájmu pro různé druhy provozoven, prodejen, showroom nebo kanceláře s parkováním.\nV zadní části tohoto podlaží jsou další tři propojené místnosti o velikostech 11 m2, 19 m2 a 7 m2, hygienické zázemí a technické zázemí.\nVe druhém podlaží je dalších pět samostatných místností s rozměry 13 m2, 12 m2, 16,5 m2, 15,5 m2 a 7 m2.\nObjekt je vytápěn plynovým kotlem a v jednotlivých místnostech jsou klimatizační jednotky.\nVelkou výhodou této nemovitosti je vlastní parkování přímo před objektem pro 3-4 osobní automobily.\nOzvěte se nám, rádi vás uvidíme na prohlídce.",
+   "amen": [],
+   "feats": [
+    "Parkovací místo",
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Stavba: cihlová",
+    "Stav objektu: dobrý",
+    "Topení: plynové",
+    "Energetická náročnost: Třída G - mimořádně nehospodárná"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/18592/00-s.webp",
+     "l": "assets/img/n/18592/00-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/01-s.webp",
+     "l": "assets/img/n/18592/01-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/02-s.webp",
+     "l": "assets/img/n/18592/02-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/03-s.webp",
+     "l": "assets/img/n/18592/03-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/04-s.webp",
+     "l": "assets/img/n/18592/04-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/05-s.webp",
+     "l": "assets/img/n/18592/05-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/06-s.webp",
+     "l": "assets/img/n/18592/06-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/07-s.webp",
+     "l": "assets/img/n/18592/07-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/08-s.webp",
+     "l": "assets/img/n/18592/08-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/09-s.webp",
+     "l": "assets/img/n/18592/09-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/10-s.webp",
+     "l": "assets/img/n/18592/10-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/11-s.webp",
+     "l": "assets/img/n/18592/11-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/12-s.webp",
+     "l": "assets/img/n/18592/12-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18592/13-s.webp",
+     "l": "assets/img/n/18592/13-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 18454,
+   "slug": "prodej-stavebniho-pozemku-421-m2-syrovice",
+   "title": "Prodej stavebního pozemku 421 m² Syrovice",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-stavebniho-pozemku-syrovice/",
+   "date": "2024-02-28",
+   "kind": "Prodej",
+   "cat": "Pozemky",
+   "price": 5262500,
+   "monthly": false,
+   "note": "",
+   "addr": "664 67 Syrovice",
+   "area": null,
+   "land": 421.0,
+   "disp": "",
+   "params": [
+    [
+     "Plocha pozemku m²",
+     "421"
+    ],
+    [
+     "Číslo zakázky",
+     "00067"
+    ]
+   ],
+   "desc": "S výhradním zastoupením majitele prodáváme stavební parcelu v Syrovicích u Brna v žádané lokalitě Vlčí máky.\nPozemek o výměře 532 m2 má platné stavební povolení a sítě (elektřina, kanalizace, voda) přivedené na hranici pozemku. Součástí ceny je také dokumentace ke stavebnímu povolení (DSP).\nKlidná a urbanisticky skvěle zpracovaná lokalita, je zasazená do mírného terénu s dobrou dostupností centra obce. Velkým bonusem je rybník v těsné blízkosti pozemku a také blízkost cyklostezky, po které se dostanete až do Brna nebo do Mikulova.\nObec Syrovice s polohou jižně od Brna velmi rychle zařadila mezi vyhledávané lokality pro bydlení ve vlastním domě v těsné blízkosti jihomoravské metropole. Z centra Brna se lze autem dostat do Syrovic již za cca 30 minut. Další výhodou je jižní směr, kterým z města vyjíždíte. V současné době je daleko méně problematický než ostatní směry (Slavkov, Kuřim, Rosice) a výrazně tak snížíte čas strávený cestou z města.\nSyrovice disponují dobrou občanskou vybaveností. Děti mohou navštěvovat MŠ se čtyřmi třídami a dále také první stupeň ZŠ (1.-5. třída). V obci je také obchod se s míšeným zbožím, restaurace, cukrárna a dvě dětská hřiště. Místí občané mají možnost navštěvovat knihovnu, sokolskou obec nebo místní římskokatolickou farnost.\nV případě zájmu vám rádi osobně ukážeme i další pozemky na prodej. Kontaktujete nás.",
+   "amen": [
+    "Škola",
+    "Mateřská školka",
+    "Dětské hřiště",
+    "Obchod",
+    "Knihovna"
+   ],
+   "feats": [],
+   "broker": "Marek Karvaj",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/18454/00-s.webp",
+     "l": "assets/img/n/18454/00-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/01-s.webp",
+     "l": "assets/img/n/18454/01-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/02-s.webp",
+     "l": "assets/img/n/18454/02-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/03-s.webp",
+     "l": "assets/img/n/18454/03-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/04-s.webp",
+     "l": "assets/img/n/18454/04-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/05-s.webp",
+     "l": "assets/img/n/18454/05-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/06-s.webp",
+     "l": "assets/img/n/18454/06-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/07-s.webp",
+     "l": "assets/img/n/18454/07-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/08-s.webp",
+     "l": "assets/img/n/18454/08-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/09-s.webp",
+     "l": "assets/img/n/18454/09-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/10-s.webp",
+     "l": "assets/img/n/18454/10-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/11-s.webp",
+     "l": "assets/img/n/18454/11-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/12-s.webp",
+     "l": "assets/img/n/18454/12-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18454/13-s.webp",
+     "l": "assets/img/n/18454/13-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    }
+   ]
+  },
+  {
+   "id": 18614,
+   "slug": "prodej-kancelare-179-m2-brno-turany",
+   "title": "Prodej kanceláře 179 m² Brno-Tuřany",
+   "orig": "https://realmarco.cz/nemovitosti/prodej-kancelare-179-brno-turany/",
+   "date": "2024-02-28",
+   "kind": "Prodej",
+   "cat": "Komerční prostory",
+   "price": 12560000,
+   "monthly": false,
+   "note": "",
+   "addr": "Malínská, 620 00 Brno",
+   "area": 179.0,
+   "land": null,
+   "disp": "",
+   "params": [
+    [
+     "Užitná plocha m²",
+     "179"
+    ],
+    [
+     "Číslo zakázky",
+     "00064"
+    ]
+   ],
+   "desc": "Ve výhradním zastoupení majitele nabízíme k prodeji víceúčelový komerční objekt na ulicí Malínská v Brně Tuřanech. Tento dům byl dosud využíván jako firemní sídlo s komerčními prostory k pronájmu směrem z ulice.\nObjekt je dvoupodlažní o celkové podlahové ploše 179 m2. Přímo před domem jsou parkovací stání na vlastním pozemku.\nV prvním podlaží jsou hned za vstupem dva samostatně uzamykatelné komerční prostory orientované do ulice, které lze využít k pronájmu pro různé druhy provozoven, prodejen, showroom nebo kanceláře s parkováním.\nV zadní části tohoto podlaží jsou další tři propojené místnosti o velikostech 11 m2, 19 m2 a 7 m2, hygienické zázemí a technické zázemí.\nVe druhém podlaží je dalších pět samostatných místností s rozměry 13 m2, 12 m2, 16,5 m2, 15,5 m2 a 7 m2.\nObjekt je vytápěn plynovým kotlem a v jednotlivých místnostech jsou klimatizační jednotky.\nVhodnou rekonstrukcí je možné tuto nemovitost přestavět k velmi mnoha způsobům využití. Jedním z nich je firemní sídlo s možností pronájmu nadbytečných prostor, nebo firemní sídlo s bydlením na jedné adrese. Majitel má také k dispozici návrh rekonstrukce, která by umožnila proměnit dům na penzion nebo ubytovnu s kapacitou 14 osob. Rekolaudací by tato nemovitost také mohla sloužit jako rodinný dům.\nVelkou výhodou této nemovitosti je vlastní parkování přímo před objektem pro 3-4 osobní automobily.\nTuřany jsou rychle se rozvíjející lokalitou na okraji Brna s výbornou dostupností velkého městského okruhu a dálničních tahů okolo města. Zároveň je to však klidné místo s plnou občanskou vybaveností a rychlou dosažitelností centra města.\nRádi vám objekt ukážeme na osobní prohlídce a s detailnější technickou dokumentací. V případě, že by z vaší strany byl zájem pouze o pronájem objektu, ozvěte se nám také. Řekneme vám více.\nV naší RK vám rádi pomůžeme i z financováním jakékoliv nemovitosti. Těšíme se na vás.",
+   "amen": [],
+   "feats": [
+    "Parkovací místo",
+    "Veřejná kanalizace",
+    "Voda: vodovod",
+    "Elektřina 230V",
+    "Typ domu: patrový",
+    "Stavba: cihlová",
+    "Stav objektu: dobrý",
+    "Plyn",
+    "Energetická náročnost: Třída G - mimořádně nehospodárná"
+   ],
+   "broker": "Marek Karvaj",
+   "badges": [],
+   "imgs": [
+    {
+     "s": "assets/img/n/18614/00-s.webp",
+     "l": "assets/img/n/18614/00-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/01-s.webp",
+     "l": "assets/img/n/18614/01-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/02-s.webp",
+     "l": "assets/img/n/18614/02-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/03-s.webp",
+     "l": "assets/img/n/18614/03-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/04-s.webp",
+     "l": "assets/img/n/18614/04-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/05-s.webp",
+     "l": "assets/img/n/18614/05-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/06-s.webp",
+     "l": "assets/img/n/18614/06-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/07-s.webp",
+     "l": "assets/img/n/18614/07-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/08-s.webp",
+     "l": "assets/img/n/18614/08-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/09-s.webp",
+     "l": "assets/img/n/18614/09-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/10-s.webp",
+     "l": "assets/img/n/18614/10-l.webp",
+     "w": 1621,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/11-s.webp",
+     "l": "assets/img/n/18614/11-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/12-s.webp",
+     "l": "assets/img/n/18614/12-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    },
+    {
+     "s": "assets/img/n/18614/13-s.webp",
+     "l": "assets/img/n/18614/13-l.webp",
+     "w": 1620,
+     "h": 1080,
+     "plan": false
+    }
+   ]
+  }
+ ],
+ "realized": [
+  {
+   "id": 21788,
+   "title": "Prodej bytu 1+1 47 m² Brno",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21788.webp"
+  },
+  {
+   "id": 21778,
+   "title": "Prodej stavebního pozemku s chatou",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21778.webp"
+  },
+  {
+   "id": 19935,
+   "title": "Prodej rozestavěného rodinného domu Rašovice",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/19935.webp"
+  },
+  {
+   "id": 21667,
+   "title": "Prodej garáže Brno Žabovřesky",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21667.webp"
+  },
+  {
+   "id": 21644,
+   "title": "Pronájem bytů – BD Jílkova",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21644.webp"
+  },
+  {
+   "id": 21634,
+   "title": "Pronájem bytu 1+kk 40 m² Sokolnice",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21634.webp"
+  },
+  {
+   "id": 21619,
+   "title": "Pronájem bytu 2+kk 69 m² Údolní",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21619.webp"
+  },
+  {
+   "id": 21169,
+   "title": "Prodej ateliéru 3+kk 74 m² Brno Trnitá",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21169.webp"
+  },
+  {
+   "id": 21550,
+   "title": "Prodej bytu 3+kk Grohova 54 m2",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21550.webp"
+  },
+  {
+   "id": 21525,
+   "title": "Pronájem bytu 3+kk 63 m2 Rosice",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21525.webp"
+  },
+  {
+   "id": 21590,
+   "title": "Pronájem velkého rodinného domu V Hajanech",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21590.webp"
+  },
+  {
+   "id": 21513,
+   "title": "Pronájem bytu 3+1 73 m² Tuřany",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21513.webp"
+  },
+  {
+   "id": 21602,
+   "title": "Pronájem bytu 2+1 73 m² Komárov",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21602.webp"
+  },
+  {
+   "id": 21659,
+   "title": "Pronájem bytu 2+1 Ponava",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21659.webp"
+  },
+  {
+   "id": 21536,
+   "title": "Pronájem bytu 2+kk 44 m2 Slatina",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21536.webp"
+  },
+  {
+   "id": 21240,
+   "title": "Prodej stylového RD v Rosicích",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21240.webp"
+  },
+  {
+   "id": 20802,
+   "title": "Prodej luxusního střešního bytu 100 m² – Brno",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/20802.webp"
+  },
+  {
+   "id": 20674,
+   "title": "Prodej rodinného domu v centru Kyjova",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/20674.webp"
+  },
+  {
+   "id": 21348,
+   "title": "Prodej pozemků pro komerční výstavbu",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21348.webp"
+  },
+  {
+   "id": 21479,
+   "title": "Pronájem bytu 2+kk 60 m2 Tkalcovská",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21479.webp"
+  },
+  {
+   "id": 21410,
+   "title": "Prodej domu s bytem 2+1 a vinným sklepem, Dobšice",
+   "kind": "Prodej",
+   "img": "assets/img/n/r/21410.webp"
+  },
+  {
+   "id": 21498,
+   "title": "Pronájem bytu 2+kk 51 m² Brno",
+   "kind": "Pronájem",
+   "img": "assets/img/n/r/21498.webp"
+  }
+ ]
+}
